@@ -1,0 +1,885 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="742" tvg-name="AXS TV USA" group-title="TV Shows", AXS TV USA
+plugin://plugin.video.daddylive/?mode=play&id=742
+#EXTINF:-1 tvg-id="745" tvg-name="Nat Geo Wild" group-title="TV Shows", Nat Geo Wild
+plugin://plugin.video.daddylive/?mode=play&id=745
+#EXTINF:-1 tvg-id="405" tvg-name="NFL Network USA" group-title="TV Shows", NFL Network USA
+plugin://plugin.video.daddylive/?mode=play&id=405
+#EXTINF:-1 tvg-id="768" tvg-name="FOXNY USA" group-title="TV Shows", FOXNY USA
+plugin://plugin.video.daddylive/?mode=play&id=768
+#EXTINF:-1 tvg-id="766" tvg-name="ABC NY USA" group-title="TV Shows", ABC NY USA
+plugin://plugin.video.daddylive/?mode=play&id=766
+#EXTINF:-1 tvg-id="753" tvg-name="NBC Sports Bay Area" group-title="TV Shows", NBC Sports Bay Area
+plugin://plugin.video.daddylive/?mode=play&id=753
+#EXTINF:-1 tvg-id="329" tvg-name="Nick JR USA" group-title="TV Shows", Nick JR USA
+plugin://plugin.video.daddylive/?mode=play&id=329
+#EXTINF:-1 tvg-id="306" tvg-name="BET USA" group-title="TV Shows", BET USA
+plugin://plugin.video.daddylive/?mode=play&id=306
+#EXTINF:-1 tvg-id="322" tvg-name="History USA" group-title="TV Shows", History USA
+plugin://plugin.video.daddylive/?mode=play&id=322
+#EXTINF:-1 tvg-id="302" tvg-name="A&amp;E TV USA" group-title="TV Shows", A&amp;E TV USA
+plugin://plugin.video.daddylive/?mode=play&id=302
+#EXTINF:-1 tvg-id="307" tvg-name="Bravo USA" group-title="TV Shows", Bravo USA
+plugin://plugin.video.daddylive/?mode=play&id=307
+#EXTINF:-1 tvg-id="300" tvg-name="CW USA" group-title="TV Shows", CW USA
+plugin://plugin.video.daddylive/?mode=play&id=300
+#EXTINF:-1 tvg-id="280" tvg-name="CW PIX 11 USA" group-title="TV Shows", CW PIX 11 USA
+plugin://plugin.video.daddylive/?mode=play&id=280
+#EXTINF:-1 tvg-id="54" tvg-name="FOX USA" group-title="TV Shows", FOX USA
+plugin://plugin.video.daddylive/?mode=play&id=54
+#EXTINF:-1 tvg-id="769" tvg-name="NBCNY USA" group-title="TV Shows", NBCNY USA
+plugin://plugin.video.daddylive/?mode=play&id=769
+#EXTINF:-1 tvg-id="53" tvg-name="NBC USA" group-title="TV Shows", NBC USA
+plugin://plugin.video.daddylive/?mode=play&id=53
+#EXTINF:-1 tvg-id="371" tvg-name="MTV USA" group-title="TV Shows", MTV USA
+plugin://plugin.video.daddylive/?mode=play&id=371
+#EXTINF:-1 tvg-id="921" tvg-name="Space City Home Network" group-title="TV Shows", Space City Home Network
+plugin://plugin.video.daddylive/?mode=play&id=921
+#EXTINF:-1 tvg-id="308" tvg-name="CBS Sports Network USA" group-title="TV Shows", CBS Sports Network USA
+plugin://plugin.video.daddylive/?mode=play&id=308
+#EXTINF:-1 tvg-id="301" tvg-name="Freeform USA" group-title="TV Shows", Freeform USA
+plugin://plugin.video.daddylive/?mode=play&id=301
+#EXTINF:-1 tvg-id="382" tvg-name="HGTV USA" group-title="TV Shows", HGTV USA
+plugin://plugin.video.daddylive/?mode=play&id=382
+#EXTINF:-1 tvg-id="7584449" tvg-name="SD-7584449" group-title="Soccer", SD-7584449
+plugin://plugin.video.daddylive/?mode=play&id=7584449
+#EXTINF:-1 tvg-id="7584457" tvg-name="SD-7584457" group-title="Soccer", SD-7584457
+plugin://plugin.video.daddylive/?mode=play&id=7584457
+#EXTINF:-1 tvg-id="7584467" tvg-name="SD-7584467" group-title="Soccer", SD-7584467
+plugin://plugin.video.daddylive/?mode=play&id=7584467
+#EXTINF:-1 tvg-id="7584458" tvg-name="SD-7584458" group-title="Soccer", SD-7584458
+plugin://plugin.video.daddylive/?mode=play&id=7584458
+#EXTINF:-1 tvg-id="7584459" tvg-name="SD-7584459" group-title="Soccer", SD-7584459
+plugin://plugin.video.daddylive/?mode=play&id=7584459
+#EXTINF:-1 tvg-id="7584460" tvg-name="SD-7584460" group-title="Soccer", SD-7584460
+plugin://plugin.video.daddylive/?mode=play&id=7584460
+#EXTINF:-1 tvg-id="7584461" tvg-name="SD-7584461" group-title="Soccer", SD-7584461
+plugin://plugin.video.daddylive/?mode=play&id=7584461
+#EXTINF:-1 tvg-id="7584463" tvg-name="SD-7584463" group-title="Soccer", SD-7584463
+plugin://plugin.video.daddylive/?mode=play&id=7584463
+#EXTINF:-1 tvg-id="7584462" tvg-name="SD-7584462" group-title="Soccer", SD-7584462
+plugin://plugin.video.daddylive/?mode=play&id=7584462
+#EXTINF:-1 tvg-id="7584464" tvg-name="SD-7584464" group-title="Soccer", SD-7584464
+plugin://plugin.video.daddylive/?mode=play&id=7584464
+#EXTINF:-1 tvg-id="7584465" tvg-name="SD-7584465" group-title="Soccer", SD-7584465
+plugin://plugin.video.daddylive/?mode=play&id=7584465
+#EXTINF:-1 tvg-id="7584466" tvg-name="SD-7584466" group-title="Soccer", SD-7584466
+plugin://plugin.video.daddylive/?mode=play&id=7584466
+#EXTINF:-1 tvg-id="7584468" tvg-name="SD-7584468" group-title="Soccer", SD-7584468
+plugin://plugin.video.daddylive/?mode=play&id=7584468
+#EXTINF:-1 tvg-id="379" tvg-name="ESPN 1 NL" group-title="Soccer", ESPN 1 NL
+plugin://plugin.video.daddylive/?mode=play&id=379
+#EXTINF:-1 tvg-id="571" tvg-name="Sportdigital FUSSBALL DE" group-title="Soccer", Sportdigital FUSSBALL DE
+plugin://plugin.video.daddylive/?mode=play&id=571
+#EXTINF:-1 tvg-id="468" tvg-name="Nova Sport Bulgaria" group-title="Soccer", Nova Sport Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=468
+#EXTINF:-1 tvg-id="93" tvg-name="beIN Sports MENA 3" group-title="Soccer", beIN Sports MENA 3
+plugin://plugin.video.daddylive/?mode=play&id=93
+#EXTINF:-1 tvg-id="102" tvg-name="Sport Klub 2 Serbia" group-title="Soccer", Sport Klub 2 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=102
+#EXTINF:-1 tvg-id="7059716" tvg-name="SD-7059716" group-title="Soccer", SD-7059716
+plugin://plugin.video.daddylive/?mode=play&id=7059716
+#EXTINF:-1 tvg-id="386" tvg-name="ESPN 2 NL" group-title="Soccer", ESPN 2 NL
+plugin://plugin.video.daddylive/?mode=play&id=386
+#EXTINF:-1 tvg-id="925" tvg-name="ESPN Mexico" group-title="Soccer", ESPN Mexico
+plugin://plugin.video.daddylive/?mode=play&id=925
+#EXTINF:-1 tvg-id="466" tvg-name="Diema Sport 2 Bulgaria" group-title="Soccer", Diema Sport 2 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=466
+#EXTINF:-1 tvg-id="85" tvg-name="ESPN4 Brazil" group-title="Soccer", ESPN4 Brazil
+plugin://plugin.video.daddylive/?mode=play&id=85
+#EXTINF:-1 tvg-id="101" tvg-name="Sport Klub 1 Serbia" group-title="Soccer", Sport Klub 1 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=101
+#EXTINF:-1 tvg-id="92" tvg-name="beIN Sports MENA 2" group-title="Soccer", beIN Sports MENA 2
+plugin://plugin.video.daddylive/?mode=play&id=92
+#EXTINF:-1 tvg-id="145" tvg-name="Sport 5 Plus Israel" group-title="Soccer", Sport 5 Plus Israel
+plugin://plugin.video.daddylive/?mode=play&id=145
+#EXTINF:-1 tvg-id="7059715" tvg-name="SD-7059715" group-title="Soccer", SD-7059715
+plugin://plugin.video.daddylive/?mode=play&id=7059715
+#EXTINF:-1 tvg-id="888" tvg-name="ESPN 3 NL" group-title="Soccer", ESPN 3 NL
+plugin://plugin.video.daddylive/?mode=play&id=888
+#EXTINF:-1 tvg-id="467" tvg-name="Diema Sport 3 Bulgaria" group-title="Soccer", Diema Sport 3 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=467
+#EXTINF:-1 tvg-id="91" tvg-name="beIN Sports MENA 1" group-title="Soccer", beIN Sports MENA 1
+plugin://plugin.video.daddylive/?mode=play&id=91
+#EXTINF:-1 tvg-id="103" tvg-name="Sport Klub 3 Serbia" group-title="Soccer", Sport Klub 3 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=103
+#EXTINF:-1 tvg-id="7059701" tvg-name="SD-7059701" group-title="Soccer", SD-7059701
+plugin://plugin.video.daddylive/?mode=play&id=7059701
+#EXTINF:-1 tvg-id="7628801" tvg-name="SD-7628801" group-title="Soccer", SD-7628801
+plugin://plugin.video.daddylive/?mode=play&id=7628801
+#EXTINF:-1 tvg-id="49" tvg-name="Sport TV1 Portugal" group-title="Soccer", Sport TV1 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=49
+#EXTINF:-1 tvg-id="6571771" tvg-name="SD-6571771" group-title="Soccer", SD-6571771
+plugin://plugin.video.daddylive/?mode=play&id=6571771
+#EXTINF:-1 tvg-id="889" tvg-name="TRT Spor Turkey" group-title="Soccer", TRT Spor Turkey
+plugin://plugin.video.daddylive/?mode=play&id=889
+#EXTINF:-1 tvg-id="7628802" tvg-name="SD-7628802" group-title="Soccer", SD-7628802
+plugin://plugin.video.daddylive/?mode=play&id=7628802
+#EXTINF:-1 tvg-id="289" tvg-name="Sport TV4 Portugal" group-title="Soccer", Sport TV4 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=289
+#EXTINF:-1 tvg-id="6571116" tvg-name="SD-6571116" group-title="Soccer", SD-6571116
+plugin://plugin.video.daddylive/?mode=play&id=6571116
+#EXTINF:-1 tvg-id="465" tvg-name="Diema Sport Bulgaria" group-title="Soccer", Diema Sport Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=465
+#EXTINF:-1 tvg-id="104" tvg-name="Sport Klub 4 Serbia" group-title="Soccer", Sport Klub 4 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=104
+#EXTINF:-1 tvg-id="7059688" tvg-name="SD-7059688" group-title="Soccer", SD-7059688
+plugin://plugin.video.daddylive/?mode=play&id=7059688
+#EXTINF:-1 tvg-id="123" tvg-name="Astro Grandstand" group-title="Soccer", Astro Grandstand
+plugin://plugin.video.daddylive/?mode=play&id=123
+#EXTINF:-1 tvg-id="96" tvg-name="beIN Sports MENA 6" group-title="Soccer", beIN Sports MENA 6
+plugin://plugin.video.daddylive/?mode=play&id=96
+#EXTINF:-1 tvg-id="7059690" tvg-name="SD-7059690" group-title="Soccer", SD-7059690
+plugin://plugin.video.daddylive/?mode=play&id=7059690
+#EXTINF:-1 tvg-id="6571775" tvg-name="SD-6571775" group-title="Soccer", SD-6571775
+plugin://plugin.video.daddylive/?mode=play&id=6571775
+#EXTINF:-1 tvg-id="6571128" tvg-name="SD-6571128" group-title="Soccer", SD-6571128
+plugin://plugin.video.daddylive/?mode=play&id=6571128
+#EXTINF:-1 tvg-id="758" tvg-name="Fox Sports 2 USA" group-title="Soccer", Fox Sports 2 USA
+plugin://plugin.video.daddylive/?mode=play&id=758
+#EXTINF:-1 tvg-id="1" tvg-name="TV8 Turkey" group-title="Soccer", TV8 Turkey
+plugin://plugin.video.daddylive/?mode=play&id=1
+#EXTINF:-1 tvg-id="265" tvg-name="M4 Sports Hungary" group-title="Soccer", M4 Sports Hungary
+plugin://plugin.video.daddylive/?mode=play&id=265
+#EXTINF:-1 tvg-id="591" tvg-name="Sky Sport 4 NZ" group-title="Soccer", Sky Sport 4 NZ
+plugin://plugin.video.daddylive/?mode=play&id=591
+#EXTINF:-1 tvg-id="426" tvg-name="DAZN1 DE" group-title="Soccer", DAZN1 DE
+plugin://plugin.video.daddylive/?mode=play&id=426
+#EXTINF:-1 tvg-id="74" tvg-name="Sport TV2 Portugal" group-title="Soccer", Sport TV2 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=74
+#EXTINF:-1 tvg-id="393" tvg-name="Ziggo Sport 1 NL" group-title="Soccer", Ziggo Sport 1 NL
+plugin://plugin.video.daddylive/?mode=play&id=393
+#EXTINF:-1 tvg-id="260" tvg-name="Vodafone Sport" group-title="Soccer", Vodafone Sport
+plugin://plugin.video.daddylive/?mode=play&id=260
+#EXTINF:-1 tvg-id="885" tvg-name="SONY TEN 1 HD" group-title="Soccer", SONY TEN 1 HD
+plugin://plugin.video.daddylive/?mode=play&id=885
+#EXTINF:-1 tvg-id="2" tvg-name="Sport 1 CZ" group-title="Soccer", Sport 1 CZ
+plugin://plugin.video.daddylive/?mode=play&id=2
+#EXTINF:-1 tvg-id="400" tvg-name="Digi Sport 1 Romania" group-title="Soccer", Digi Sport 1 Romania
+plugin://plugin.video.daddylive/?mode=play&id=400
+#EXTINF:-1 tvg-id="583" tvg-name="Prima Sport 1 Romania" group-title="Soccer", Prima Sport 1 Romania
+plugin://plugin.video.daddylive/?mode=play&id=583
+#EXTINF:-1 tvg-id="631" tvg-name="Nova Sports 1 Greece" group-title="Soccer", Nova Sports 1 Greece
+plugin://plugin.video.daddylive/?mode=play&id=631
+#EXTINF:-1 tvg-id="134" tvg-name="Arena 1 Premium Serbia" group-title="Soccer", Arena 1 Premium Serbia
+plugin://plugin.video.daddylive/?mode=play&id=134
+#EXTINF:-1 tvg-id="808" tvg-name="TV2 Sport X Denmark" group-title="Soccer", TV2 Sport X Denmark
+plugin://plugin.video.daddylive/?mode=play&id=808
+#EXTINF:-1 tvg-id="150" tvg-name="ESPN2 Argentina" group-title="Soccer", ESPN2 Argentina
+plugin://plugin.video.daddylive/?mode=play&id=150
+#EXTINF:-1 tvg-id="414" tvg-name="SuperSport Premier League" group-title="Soccer", SuperSport Premier League
+plugin://plugin.video.daddylive/?mode=play&id=414
+#EXTINF:-1 tvg-id="61" tvg-name="beIN Sports MENA English 1" group-title="Soccer", beIN Sports MENA English 1
+plugin://plugin.video.daddylive/?mode=play&id=61
+#EXTINF:-1 tvg-id="140" tvg-name="Sport 1 Israel" group-title="Soccer", Sport 1 Israel
+plugin://plugin.video.daddylive/?mode=play&id=140
+#EXTINF:-1 tvg-id="756" tvg-name="Fox Soccer Plus" group-title="Soccer", Fox Soccer Plus
+plugin://plugin.video.daddylive/?mode=play&id=756
+#EXTINF:-1 tvg-id="3" tvg-name="1TV Georgia" group-title="Soccer", 1TV Georgia
+plugin://plugin.video.daddylive/?mode=play&id=3
+#EXTINF:-1 tvg-id="427" tvg-name="DAZN2 DE" group-title="Soccer", DAZN2 DE
+plugin://plugin.video.daddylive/?mode=play&id=427
+#EXTINF:-1 tvg-id="590" tvg-name="Sky Sport 3 NZ" group-title="Soccer", Sky Sport 3 NZ
+plugin://plugin.video.daddylive/?mode=play&id=590
+#EXTINF:-1 tvg-id="290" tvg-name="Sport TV5 Portugal" group-title="Soccer", Sport TV5 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=290
+#EXTINF:-1 tvg-id="50" tvg-name="Polsat Sport 2 Poland" group-title="Soccer", Polsat Sport 2 Poland
+plugin://plugin.video.daddylive/?mode=play&id=50
+#EXTINF:-1 tvg-id="398" tvg-name="Ziggo Sport 2 NL" group-title="Soccer", Ziggo Sport 2 NL
+plugin://plugin.video.daddylive/?mode=play&id=398
+#EXTINF:-1 tvg-id="886" tvg-name="SONY TEN 2 HD" group-title="Soccer", SONY TEN 2 HD
+plugin://plugin.video.daddylive/?mode=play&id=886
+#EXTINF:-1 tvg-id="913" tvg-name="Cytavision Sports 3 Cyprus" group-title="Soccer", Cytavision Sports 3 Cyprus
+plugin://plugin.video.daddylive/?mode=play&id=913
+#EXTINF:-1 tvg-id="402" tvg-name="Digi Sport 3 Romania" group-title="Soccer", Digi Sport 3 Romania
+plugin://plugin.video.daddylive/?mode=play&id=402
+#EXTINF:-1 tvg-id="584" tvg-name="Prima Sport 2 Romania" group-title="Soccer", Prima Sport 2 Romania
+plugin://plugin.video.daddylive/?mode=play&id=584
+#EXTINF:-1 tvg-id="637" tvg-name="Nova Sports Start Greece" group-title="Soccer", Nova Sports Start Greece
+plugin://plugin.video.daddylive/?mode=play&id=637
+#EXTINF:-1 tvg-id="56" tvg-name="SuperSport Football" group-title="Soccer", SuperSport Football
+plugin://plugin.video.daddylive/?mode=play&id=56
+#EXTINF:-1 tvg-id="98" tvg-name="beIN Sports MENA 8" group-title="Soccer", beIN Sports MENA 8
+plugin://plugin.video.daddylive/?mode=play&id=98
+#EXTINF:-1 tvg-id="90" tvg-name="beIN Sports MENA English 2" group-title="Soccer", beIN Sports MENA English 2
+plugin://plugin.video.daddylive/?mode=play&id=90
+#EXTINF:-1 tvg-id="142" tvg-name="Sport 3 Israel" group-title="Soccer", Sport 3 Israel
+plugin://plugin.video.daddylive/?mode=play&id=142
+#EXTINF:-1 tvg-id="928" tvg-name="ESPN4 Mexico" group-title="Soccer", ESPN4 Mexico
+plugin://plugin.video.daddylive/?mode=play&id=928
+#EXTINF:-1 tvg-id="147" tvg-name="Sport 5 Stars Israel" group-title="Soccer", Sport 5 Stars Israel
+plugin://plugin.video.daddylive/?mode=play&id=147
+#EXTINF:-1 tvg-id="94" tvg-name="beIN Sports MENA 4" group-title="Soccer", beIN Sports MENA 4
+plugin://plugin.video.daddylive/?mode=play&id=94
+#EXTINF:-1 tvg-id="4" tvg-name="Jordan Sport" group-title="Soccer", Jordan Sport
+plugin://plugin.video.daddylive/?mode=play&id=4
+#EXTINF:-1 tvg-id="95" tvg-name="beIN Sports MENA 5" group-title="Soccer", beIN Sports MENA 5
+plugin://plugin.video.daddylive/?mode=play&id=95
+#EXTINF:-1 tvg-id="124" tvg-name="Astro Football" group-title="Soccer", Astro Football
+plugin://plugin.video.daddylive/?mode=play&id=124
+#EXTINF:-1 tvg-id="291" tvg-name="Sport TV6 Portugal" group-title="Soccer", Sport TV6 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=291
+#EXTINF:-1 tvg-id="645" tvg-name="L'Équipe France" group-title="Soccer", L'Équipe France
+plugin://plugin.video.daddylive/?mode=play&id=645
+#EXTINF:-1 tvg-id="639" tvg-name="Nova Sports News Greece" group-title="Soccer", Nova Sports News Greece
+plugin://plugin.video.daddylive/?mode=play&id=639
+#EXTINF:-1 tvg-id="365" tvg-name="RTE 2 Ireland" group-title="Soccer", RTE 2 Ireland
+plugin://plugin.video.daddylive/?mode=play&id=365
+#EXTINF:-1 tvg-id="476" tvg-name="BNT 1 Bulgaria" group-title="Soccer", BNT 1 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=476
+#EXTINF:-1 tvg-id="478" tvg-name="BNT 3 Bulgaria" group-title="Soccer", BNT 3 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=478
+#EXTINF:-1 tvg-id="586" tvg-name="Prima Sport 4 Romania" group-title="Soccer", Prima Sport 4 Romania
+plugin://plugin.video.daddylive/?mode=play&id=586
+#EXTINF:-1 tvg-id="599" tvg-name="Nova Sports Premier League Greece" group-title="Soccer", Nova Sports Premier League Greece
+plugin://plugin.video.daddylive/?mode=play&id=599
+#EXTINF:-1 tvg-id="417" tvg-name="SuperSport Variety 2" group-title="Soccer", SuperSport Variety 2
+plugin://plugin.video.daddylive/?mode=play&id=417
+#EXTINF:-1 tvg-id="719" tvg-name="RTP 1 Portugal" group-title="Soccer", RTP 1 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=719
+#EXTINF:-1 tvg-id="817" tvg-name="TV2 Denmark" group-title="Soccer", TV2 Denmark
+plugin://plugin.video.daddylive/?mode=play&id=817
+#EXTINF:-1 tvg-id="592" tvg-name="Sky Sport 5 NZ" group-title="Soccer", Sky Sport 5 NZ
+plugin://plugin.video.daddylive/?mode=play&id=592
+#EXTINF:-1 tvg-id="5" tvg-name="Polsat Sport Premium 3 Poland" group-title="Soccer", Polsat Sport Premium 3 Poland
+plugin://plugin.video.daddylive/?mode=play&id=5
+#EXTINF:-1 tvg-id="403" tvg-name="Digi Sport 4 Romania" group-title="Soccer", Digi Sport 4 Romania
+plugin://plugin.video.daddylive/?mode=play&id=403
+#EXTINF:-1 tvg-id="585" tvg-name="Prima Sport 3 Romania" group-title="Soccer", Prima Sport 3 Romania
+plugin://plugin.video.daddylive/?mode=play&id=585
+#EXTINF:-1 tvg-id="429" tvg-name="Arena Sport 1 Serbia" group-title="Soccer", Arena Sport 1 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=429
+#EXTINF:-1 tvg-id="415" tvg-name="SuperSport Laliga" group-title="Soccer", SuperSport Laliga
+plugin://plugin.video.daddylive/?mode=play&id=415
+#EXTINF:-1 tvg-id="6" tvg-name="Stöð 2 Sport 1 Iceland" group-title="Soccer", Stöð 2 Sport 1 Iceland
+plugin://plugin.video.daddylive/?mode=play&id=6
+#EXTINF:-1 tvg-id="7" tvg-name="BBC Scotland" group-title="Soccer", BBC Scotland
+plugin://plugin.video.daddylive/?mode=play&id=7
+#EXTINF:-1 tvg-id="638" tvg-name="Nova Sports Prime Greece" group-title="Soccer", Nova Sports Prime Greece
+plugin://plugin.video.daddylive/?mode=play&id=638
+#EXTINF:-1 tvg-id="593" tvg-name="Sky Sport 6 NZ" group-title="Soccer", Sky Sport 6 NZ
+plugin://plugin.video.daddylive/?mode=play&id=593
+#EXTINF:-1 tvg-id="431" tvg-name="Arena Sport 3 Serbia" group-title="Soccer", Arena Sport 3 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=431
+#EXTINF:-1 tvg-id="419" tvg-name="SuperSport Variety 4" group-title="Soccer", SuperSport Variety 4
+plugin://plugin.video.daddylive/?mode=play&id=419
+#EXTINF:-1 tvg-id="8" tvg-name="VTM Belgium" group-title="Soccer", VTM Belgium
+plugin://plugin.video.daddylive/?mode=play&id=8
+#EXTINF:-1 tvg-id="594" tvg-name="Sky Sport 7 NZ" group-title="Soccer", Sky Sport 7 NZ
+plugin://plugin.video.daddylive/?mode=play&id=594
+#EXTINF:-1 tvg-id="581" tvg-name="Arena Sport 4 Serbia" group-title="Soccer", Arena Sport 4 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=581
+#EXTINF:-1 tvg-id="80" tvg-name="SporTV3 Brazil" group-title="Soccer", SporTV3 Brazil
+plugin://plugin.video.daddylive/?mode=play&id=80
+#EXTINF:-1 tvg-id="416" tvg-name="SuperSport Variety 1" group-title="Soccer", SuperSport Variety 1
+plugin://plugin.video.daddylive/?mode=play&id=416
+#EXTINF:-1 tvg-id="420" tvg-name="SuperSport Action" group-title="Soccer", SuperSport Action
+plugin://plugin.video.daddylive/?mode=play&id=420
+#EXTINF:-1 tvg-id="850" tvg-name="RAI 1 IT" group-title="Soccer", RAI 1 IT
+plugin://plugin.video.daddylive/?mode=play&id=850
+#EXTINF:-1 tvg-id="9" tvg-name="Das Erste DE" group-title="Soccer", Das Erste DE
+plugin://plugin.video.daddylive/?mode=play&id=9
+#EXTINF:-1 tvg-id="10" tvg-name="SRF zwei" group-title="Soccer", SRF zwei
+plugin://plugin.video.daddylive/?mode=play&id=10
+#EXTINF:-1 tvg-id="55" tvg-name="Virgin Media Two UK" group-title="Soccer", Virgin Media Two UK
+plugin://plugin.video.daddylive/?mode=play&id=55
+#EXTINF:-1 tvg-id="129" tvg-name="Polsat Sport 3 Poland" group-title="Soccer", Polsat Sport 3 Poland
+plugin://plugin.video.daddylive/?mode=play&id=129
+#EXTINF:-1 tvg-id="914" tvg-name="Cytavision Sports 4 Cyprus" group-title="Soccer", Cytavision Sports 4 Cyprus
+plugin://plugin.video.daddylive/?mode=play&id=914
+#EXTINF:-1 tvg-id="135" tvg-name="Arena 2 Premium Serbia" group-title="Soccer", Arena 2 Premium Serbia
+plugin://plugin.video.daddylive/?mode=play&id=135
+#EXTINF:-1 tvg-id="632" tvg-name="Nova Sports 2 Greece" group-title="Soccer", Nova Sports 2 Greece
+plugin://plugin.video.daddylive/?mode=play&id=632
+#EXTINF:-1 tvg-id="11" tvg-name="V Sport Premium" group-title="Soccer", V Sport Premium
+plugin://plugin.video.daddylive/?mode=play&id=11
+#EXTINF:-1 tvg-id="418" tvg-name="SuperSport Variety 3" group-title="Soccer", SuperSport Variety 3
+plugin://plugin.video.daddylive/?mode=play&id=418
+#EXTINF:-1 tvg-id="79" tvg-name="Sportv2 Brazil" group-title="Soccer", Sportv2 Brazil
+plugin://plugin.video.daddylive/?mode=play&id=79
+#EXTINF:-1 tvg-id="81" tvg-name="ESPN Brazil" group-title="Soccer", ESPN Brazil
+plugin://plugin.video.daddylive/?mode=play&id=81
+#EXTINF:-1 tvg-id="143" tvg-name="Sport 4 Israel" group-title="Soccer", Sport 4 Israel
+plugin://plugin.video.daddylive/?mode=play&id=143
+#EXTINF:-1 tvg-id="469" tvg-name="TF1 France" group-title="Soccer", TF1 France
+plugin://plugin.video.daddylive/?mode=play&id=469
+#EXTINF:-1 tvg-id="12" tvg-name="Nova TV Croatia" group-title="Soccer", Nova TV Croatia
+plugin://plugin.video.daddylive/?mode=play&id=12
+#EXTINF:-1 tvg-id="13" tvg-name="Polsat Sport Premium 2 Poland" group-title="Soccer", Polsat Sport Premium 2 Poland
+plugin://plugin.video.daddylive/?mode=play&id=13
+#EXTINF:-1 tvg-id="14" tvg-name="Ziggo Sport 3 NL" group-title="Soccer", Ziggo Sport 3 NL
+plugin://plugin.video.daddylive/?mode=play&id=14
+#EXTINF:-1 tvg-id="430" tvg-name="Arena Sport 2 Serbia" group-title="Soccer", Arena Sport 2 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=430
+#EXTINF:-1 tvg-id="78" tvg-name="SporTV BR" group-title="Soccer", SporTV BR
+plugin://plugin.video.daddylive/?mode=play&id=78
+#EXTINF:-1 tvg-id="59" tvg-name="V Sport Football" group-title="Soccer", V Sport Football
+plugin://plugin.video.daddylive/?mode=play&id=59
+#EXTINF:-1 tvg-id="39" tvg-name="Fox Sports 1 USA" group-title="Soccer", Fox Sports 1 USA
+plugin://plugin.video.daddylive/?mode=play&id=39
+#EXTINF:-1 tvg-id="15" tvg-name="NPO 3 NL" group-title="Soccer", NPO 3 NL
+plugin://plugin.video.daddylive/?mode=play&id=15
+#EXTINF:-1 tvg-id="533" tvg-name="TVE La 1 Spain" group-title="Soccer", TVE La 1 Spain
+plugin://plugin.video.daddylive/?mode=play&id=533
+#EXTINF:-1 tvg-id="589" tvg-name="Sky Sport 2 NZ" group-title="Soccer", Sky Sport 2 NZ
+plugin://plugin.video.daddylive/?mode=play&id=589
+#EXTINF:-1 tvg-id="128" tvg-name="TVP Sport Poland" group-title="Soccer", TVP Sport Poland
+plugin://plugin.video.daddylive/?mode=play&id=128
+#EXTINF:-1 tvg-id="16" tvg-name="Polsat Sport Premium 1 Poland" group-title="Soccer", Polsat Sport Premium 1 Poland
+plugin://plugin.video.daddylive/?mode=play&id=16
+#EXTINF:-1 tvg-id="887" tvg-name="SONY TEN 3 HD" group-title="Soccer", SONY TEN 3 HD
+plugin://plugin.video.daddylive/?mode=play&id=887
+#EXTINF:-1 tvg-id="401" tvg-name="Digi Sport 2 Romania" group-title="Soccer", Digi Sport 2 Romania
+plugin://plugin.video.daddylive/?mode=play&id=401
+#EXTINF:-1 tvg-id="139" tvg-name="Arena 3 Premium Serbia" group-title="Soccer", Arena 3 Premium Serbia
+plugin://plugin.video.daddylive/?mode=play&id=139
+#EXTINF:-1 tvg-id="633" tvg-name="Nova Sports 3 Greece" group-title="Soccer", Nova Sports 3 Greece
+plugin://plugin.video.daddylive/?mode=play&id=633
+#EXTINF:-1 tvg-id="149" tvg-name="ESPN Argentina" group-title="Soccer", ESPN Argentina
+plugin://plugin.video.daddylive/?mode=play&id=149
+#EXTINF:-1 tvg-id="141" tvg-name="Sport 2 Israel" group-title="Soccer", Sport 2 Israel
+plugin://plugin.video.daddylive/?mode=play&id=141
+#EXTINF:-1 tvg-id="17" tvg-name="ORF eins Austria" group-title="Soccer", ORF eins Austria
+plugin://plugin.video.daddylive/?mode=play&id=17
+#EXTINF:-1 tvg-id="18" tvg-name="RTS 1 Serbia" group-title="Soccer", RTS 1 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=18
+#EXTINF:-1 tvg-id="19" tvg-name="Polsat Sport Premium 4 Poland" group-title="Soccer", Polsat Sport Premium 4 Poland
+plugin://plugin.video.daddylive/?mode=play&id=19
+#EXTINF:-1 tvg-id="391" tvg-name="VTV+ Uruguay" group-title="Soccer", VTV+ Uruguay
+plugin://plugin.video.daddylive/?mode=play&id=391
+#EXTINF:-1 tvg-id="597" tvg-name="GOLTV USA" group-title="Soccer", GOLTV USA
+plugin://plugin.video.daddylive/?mode=play&id=597
+#EXTINF:-1 tvg-id="68" tvg-name="Sport Klub 8 Serbia" group-title="Soccer", Sport Klub 8 Serbia
+plugin://plugin.video.daddylive/?mode=play&id=68
+#EXTINF:-1 tvg-id="7590548" tvg-name="SD-7590548" group-title="Soccer", SD-7590548
+plugin://plugin.video.daddylive/?mode=play&id=7590548
+#EXTINF:-1 tvg-id="88" tvg-name="Premier Brasil" group-title="Soccer", Premier Brasil
+plugin://plugin.video.daddylive/?mode=play&id=88
+#EXTINF:-1 tvg-id="71" tvg-name="Eleven Sports 1 Poland" group-title="Soccer", Eleven Sports 1 Poland
+plugin://plugin.video.daddylive/?mode=play&id=71
+#EXTINF:-1 tvg-id="521" tvg-name="#Vamos ES" group-title="Soccer", #Vamos ES
+plugin://plugin.video.daddylive/?mode=play&id=521
+#EXTINF:-1 tvg-id="746" tvg-name="TYC Sports Argentina" group-title="Soccer", TYC Sports Argentina
+plugin://plugin.video.daddylive/?mode=play&id=746
+#EXTINF:-1 tvg-id="136" tvg-name="Match! Football 1 Russia" group-title="Soccer", Match! Football 1 Russia
+plugin://plugin.video.daddylive/?mode=play&id=136
+#EXTINF:-1 tvg-id="432" tvg-name="Arena Sport 1 Croatia" group-title="Soccer", Arena Sport 1 Croatia
+plugin://plugin.video.daddylive/?mode=play&id=432
+#EXTINF:-1 tvg-id="910" tvg-name="CBS Sports Golazo USA" group-title="Soccer", CBS Sports Golazo USA
+plugin://plugin.video.daddylive/?mode=play&id=910
+#EXTINF:-1 tvg-id="66" tvg-name="TUDN USA" group-title="Soccer", TUDN USA
+plugin://plugin.video.daddylive/?mode=play&id=66
+#EXTINF:-1 tvg-id="132" tvg-name="Univision" group-title="Soccer", Univision
+plugin://plugin.video.daddylive/?mode=play&id=132
+#EXTINF:-1 tvg-id="7584592" tvg-name="SD-7584592" group-title="Soccer", SD-7584592
+plugin://plugin.video.daddylive/?mode=play&id=7584592
+#EXTINF:-1 tvg-id="7584590" tvg-name="SD-7584590" group-title="Soccer", SD-7584590
+plugin://plugin.video.daddylive/?mode=play&id=7584590
+#EXTINF:-1 tvg-id="7584591" tvg-name="SD-7584591" group-title="Soccer", SD-7584591
+plugin://plugin.video.daddylive/?mode=play&id=7584591
+#EXTINF:-1 tvg-id="7629315" tvg-name="SD-7629315" group-title="Soccer", SD-7629315
+plugin://plugin.video.daddylive/?mode=play&id=7629315
+#EXTINF:-1 tvg-id="7584601" tvg-name="SD-7584601" group-title="Soccer", SD-7584601
+plugin://plugin.video.daddylive/?mode=play&id=7584601
+#EXTINF:-1 tvg-id="7584602" tvg-name="SD-7584602" group-title="Soccer", SD-7584602
+plugin://plugin.video.daddylive/?mode=play&id=7584602
+#EXTINF:-1 tvg-id="388" tvg-name="TNT Sports Argentina" group-title="Soccer", TNT Sports Argentina
+plugin://plugin.video.daddylive/?mode=play&id=388
+#EXTINF:-1 tvg-id="451" tvg-name="Viaplay Sports 1 UK" group-title="Soccer", Viaplay Sports 1 UK
+plugin://plugin.video.daddylive/?mode=play&id=451
+#EXTINF:-1 tvg-id="845" tvg-name="NBC UNIVERSO" group-title="Soccer", NBC UNIVERSO
+plugin://plugin.video.daddylive/?mode=play&id=845
+#EXTINF:-1 tvg-id="771" tvg-name="Premier Sports 1 Ireland" group-title="Soccer", Premier Sports 1 Ireland
+plugin://plugin.video.daddylive/?mode=play&id=771
+#EXTINF:-1 tvg-id="127" tvg-name="Match TV Russia" group-title="Soccer", Match TV Russia
+plugin://plugin.video.daddylive/?mode=play&id=127
+#EXTINF:-1 tvg-id="131" tvg-name="Telemundo USA" group-title="Soccer", Telemundo USA
+plugin://plugin.video.daddylive/?mode=play&id=131
+#EXTINF:-1 tvg-id="433" tvg-name="Arena Sport 2 Croatia" group-title="Soccer", Arena Sport 2 Croatia
+plugin://plugin.video.daddylive/?mode=play&id=433
+#EXTINF:-1 tvg-id="72" tvg-name="Eleven Sports 2 Poland" group-title="Soccer", Eleven Sports 2 Poland
+plugin://plugin.video.daddylive/?mode=play&id=72
+#EXTINF:-1 tvg-id="844" tvg-name="Azteca 7 MX" group-title="Soccer", Azteca 7 MX
+plugin://plugin.video.daddylive/?mode=play&id=844
+#EXTINF:-1 tvg-id="643" tvg-name="FOX Deportes" group-title="Soccer", FOX Deportes
+plugin://plugin.video.daddylive/?mode=play&id=643
+#EXTINF:-1 tvg-id="31" tvg-name="TNT Sports 1 UK" group-title="Cricket", TNT Sports 1 UK
+plugin://plugin.video.daddylive/?mode=play&id=31
+#EXTINF:-1 tvg-id="40" tvg-name="Tennis Channel" group-title="Tennis", Tennis Channel
+plugin://plugin.video.daddylive/?mode=play&id=40
+#EXTINF:-1 tvg-id="112" tvg-name="TSN2" group-title="Tennis", TSN2
+plugin://plugin.video.daddylive/?mode=play&id=112
+#EXTINF:-1 tvg-id="113" tvg-name="TSN3" group-title="Tennis", TSN3
+plugin://plugin.video.daddylive/?mode=play&id=113
+#EXTINF:-1 tvg-id="46" tvg-name="Sky Sports Tennis UK" group-title="Tennis", Sky Sports Tennis UK
+plugin://plugin.video.daddylive/?mode=play&id=46
+#EXTINF:-1 tvg-id="701" tvg-name="TV4 Tennis" group-title="Tennis", TV4 Tennis
+plugin://plugin.video.daddylive/?mode=play&id=701
+#EXTINF:-1 tvg-id="48" tvg-name="CANAL+ Sport Poland" group-title="Tennis", CANAL+ Sport Poland
+plugin://plugin.video.daddylive/?mode=play&id=48
+#EXTINF:-1 tvg-id="453" tvg-name="Sport Klub HD Serbia" group-title="Tennis", Sport Klub HD Serbia
+plugin://plugin.video.daddylive/?mode=play&id=453
+#EXTINF:-1 tvg-id="7639212" tvg-name="SD-7639212" group-title="Tennis", SD-7639212
+plugin://plugin.video.daddylive/?mode=play&id=7639212
+#EXTINF:-1 tvg-id="7637237" tvg-name="SD-7637237" group-title="Tennis", SD-7637237
+plugin://plugin.video.daddylive/?mode=play&id=7637237
+#EXTINF:-1 tvg-id="7639210" tvg-name="SD-7639210" group-title="Tennis", SD-7639210
+plugin://plugin.video.daddylive/?mode=play&id=7639210
+#EXTINF:-1 tvg-id="7650281" tvg-name="SD-7650281" group-title="Tennis", SD-7650281
+plugin://plugin.video.daddylive/?mode=play&id=7650281
+#EXTINF:-1 tvg-id="7639231" tvg-name="SD-7639231" group-title="Tennis", SD-7639231
+plugin://plugin.video.daddylive/?mode=play&id=7639231
+#EXTINF:-1 tvg-id="7639201" tvg-name="SD-7639201" group-title="Tennis", SD-7639201
+plugin://plugin.video.daddylive/?mode=play&id=7639201
+#EXTINF:-1 tvg-id="7639248" tvg-name="SD-7639248" group-title="Tennis", SD-7639248
+plugin://plugin.video.daddylive/?mode=play&id=7639248
+#EXTINF:-1 tvg-id="7637241" tvg-name="SD-7637241" group-title="Tennis", SD-7637241
+plugin://plugin.video.daddylive/?mode=play&id=7637241
+#EXTINF:-1 tvg-id="7639207" tvg-name="SD-7639207" group-title="Tennis", SD-7639207
+plugin://plugin.video.daddylive/?mode=play&id=7639207
+#EXTINF:-1 tvg-id="7637493" tvg-name="SD-7637493" group-title="Tennis", SD-7637493
+plugin://plugin.video.daddylive/?mode=play&id=7637493
+#EXTINF:-1 tvg-id="7637539" tvg-name="SD-7637539" group-title="Tennis", SD-7637539
+plugin://plugin.video.daddylive/?mode=play&id=7637539
+#EXTINF:-1 tvg-id="7650962" tvg-name="SD-7650962" group-title="Tennis", SD-7650962
+plugin://plugin.video.daddylive/?mode=play&id=7650962
+#EXTINF:-1 tvg-id="7650960" tvg-name="SD-7650960" group-title="Tennis", SD-7650960
+plugin://plugin.video.daddylive/?mode=play&id=7650960
+#EXTINF:-1 tvg-id="7650959" tvg-name="SD-7650959" group-title="Tennis", SD-7650959
+plugin://plugin.video.daddylive/?mode=play&id=7650959
+#EXTINF:-1 tvg-id="7651404" tvg-name="SD-7651404" group-title="Tennis", SD-7651404
+plugin://plugin.video.daddylive/?mode=play&id=7651404
+#EXTINF:-1 tvg-id="7659452" tvg-name="SD-7659452" group-title="Tennis", SD-7659452
+plugin://plugin.video.daddylive/?mode=play&id=7659452
+#EXTINF:-1 tvg-id="7653194" tvg-name="SD-7653194" group-title="Tennis", SD-7653194
+plugin://plugin.video.daddylive/?mode=play&id=7653194
+#EXTINF:-1 tvg-id="7659752" tvg-name="SD-7659752" group-title="Tennis", SD-7659752
+plugin://plugin.video.daddylive/?mode=play&id=7659752
+#EXTINF:-1 tvg-id="7637304" tvg-name="SD-7637304" group-title="Tennis", SD-7637304
+plugin://plugin.video.daddylive/?mode=play&id=7637304
+#EXTINF:-1 tvg-id="7639221" tvg-name="SD-7639221" group-title="Tennis", SD-7639221
+plugin://plugin.video.daddylive/?mode=play&id=7639221
+#EXTINF:-1 tvg-id="7637436" tvg-name="SD-7637436" group-title="Tennis", SD-7637436
+plugin://plugin.video.daddylive/?mode=play&id=7637436
+#EXTINF:-1 tvg-id="7653192" tvg-name="SD-7653192" group-title="Tennis", SD-7653192
+plugin://plugin.video.daddylive/?mode=play&id=7653192
+#EXTINF:-1 tvg-id="7659744" tvg-name="SD-7659744" group-title="Tennis", SD-7659744
+plugin://plugin.video.daddylive/?mode=play&id=7659744
+#EXTINF:-1 tvg-id="7658650" tvg-name="SD-7658650" group-title="Tennis", SD-7658650
+plugin://plugin.video.daddylive/?mode=play&id=7658650
+#EXTINF:-1 tvg-id="7659751" tvg-name="SD-7659751" group-title="Tennis", SD-7659751
+plugin://plugin.video.daddylive/?mode=play&id=7659751
+#EXTINF:-1 tvg-id="7658680" tvg-name="SD-7658680" group-title="Tennis", SD-7658680
+plugin://plugin.video.daddylive/?mode=play&id=7658680
+#EXTINF:-1 tvg-id="7658813" tvg-name="SD-7658813" group-title="Tennis", SD-7658813
+plugin://plugin.video.daddylive/?mode=play&id=7658813
+#EXTINF:-1 tvg-id="7662664" tvg-name="SD-7662664" group-title="Tennis", SD-7662664
+plugin://plugin.video.daddylive/?mode=play&id=7662664
+#EXTINF:-1 tvg-id="7657470" tvg-name="SD-7657470" group-title="Tennis", SD-7657470
+plugin://plugin.video.daddylive/?mode=play&id=7657470
+#EXTINF:-1 tvg-id="7639241" tvg-name="SD-7639241" group-title="Tennis", SD-7639241
+plugin://plugin.video.daddylive/?mode=play&id=7639241
+#EXTINF:-1 tvg-id="7637384" tvg-name="SD-7637384" group-title="Tennis", SD-7637384
+plugin://plugin.video.daddylive/?mode=play&id=7637384
+#EXTINF:-1 tvg-id="7663136" tvg-name="SD-7663136" group-title="Tennis", SD-7663136
+plugin://plugin.video.daddylive/?mode=play&id=7663136
+#EXTINF:-1 tvg-id="7664652" tvg-name="SD-7664652" group-title="Tennis", SD-7664652
+plugin://plugin.video.daddylive/?mode=play&id=7664652
+#EXTINF:-1 tvg-id="7657396" tvg-name="SD-7657396" group-title="Tennis", SD-7657396
+plugin://plugin.video.daddylive/?mode=play&id=7657396
+#EXTINF:-1 tvg-id="7662260" tvg-name="SD-7662260" group-title="Tennis", SD-7662260
+plugin://plugin.video.daddylive/?mode=play&id=7662260
+#EXTINF:-1 tvg-id="7639227" tvg-name="SD-7639227" group-title="Tennis", SD-7639227
+plugin://plugin.video.daddylive/?mode=play&id=7639227
+#EXTINF:-1 tvg-id="7652333" tvg-name="SD-7652333" group-title="Tennis", SD-7652333
+plugin://plugin.video.daddylive/?mode=play&id=7652333
+#EXTINF:-1 tvg-id="7662802" tvg-name="SD-7662802" group-title="Tennis", SD-7662802
+plugin://plugin.video.daddylive/?mode=play&id=7662802
+#EXTINF:-1 tvg-id="7662345" tvg-name="SD-7662345" group-title="Tennis", SD-7662345
+plugin://plugin.video.daddylive/?mode=play&id=7662345
+#EXTINF:-1 tvg-id="7663148" tvg-name="SD-7663148" group-title="Tennis", SD-7663148
+plugin://plugin.video.daddylive/?mode=play&id=7663148
+#EXTINF:-1 tvg-id="7664439" tvg-name="SD-7664439" group-title="Tennis", SD-7664439
+plugin://plugin.video.daddylive/?mode=play&id=7664439
+#EXTINF:-1 tvg-id="7662343" tvg-name="SD-7662343" group-title="Tennis", SD-7662343
+plugin://plugin.video.daddylive/?mode=play&id=7662343
+#EXTINF:-1 tvg-id="7665173" tvg-name="SD-7665173" group-title="Tennis", SD-7665173
+plugin://plugin.video.daddylive/?mode=play&id=7665173
+#EXTINF:-1 tvg-id="7660075" tvg-name="SD-7660075" group-title="Tennis", SD-7660075
+plugin://plugin.video.daddylive/?mode=play&id=7660075
+#EXTINF:-1 tvg-id="7660074" tvg-name="SD-7660074" group-title="Tennis", SD-7660074
+plugin://plugin.video.daddylive/?mode=play&id=7660074
+#EXTINF:-1 tvg-id="7653286" tvg-name="SD-7653286" group-title="Tennis", SD-7653286
+plugin://plugin.video.daddylive/?mode=play&id=7653286
+#EXTINF:-1 tvg-id="7653271" tvg-name="SD-7653271" group-title="Tennis", SD-7653271
+plugin://plugin.video.daddylive/?mode=play&id=7653271
+#EXTINF:-1 tvg-id="7653285" tvg-name="SD-7653285" group-title="Tennis", SD-7653285
+plugin://plugin.video.daddylive/?mode=play&id=7653285
+#EXTINF:-1 tvg-id="7653284" tvg-name="SD-7653284" group-title="Tennis", SD-7653284
+plugin://plugin.video.daddylive/?mode=play&id=7653284
+#EXTINF:-1 tvg-id="7653278" tvg-name="SD-7653278" group-title="Tennis", SD-7653278
+plugin://plugin.video.daddylive/?mode=play&id=7653278
+#EXTINF:-1 tvg-id="7653283" tvg-name="SD-7653283" group-title="Tennis", SD-7653283
+plugin://plugin.video.daddylive/?mode=play&id=7653283
+#EXTINF:-1 tvg-id="7653269" tvg-name="SD-7653269" group-title="Tennis", SD-7653269
+plugin://plugin.video.daddylive/?mode=play&id=7653269
+#EXTINF:-1 tvg-id="7653268" tvg-name="SD-7653268" group-title="Tennis", SD-7653268
+plugin://plugin.video.daddylive/?mode=play&id=7653268
+#EXTINF:-1 tvg-id="7653277" tvg-name="SD-7653277" group-title="Tennis", SD-7653277
+plugin://plugin.video.daddylive/?mode=play&id=7653277
+#EXTINF:-1 tvg-id="7653270" tvg-name="SD-7653270" group-title="Tennis", SD-7653270
+plugin://plugin.video.daddylive/?mode=play&id=7653270
+#EXTINF:-1 tvg-id="7653276" tvg-name="SD-7653276" group-title="Tennis", SD-7653276
+plugin://plugin.video.daddylive/?mode=play&id=7653276
+#EXTINF:-1 tvg-id="7654597" tvg-name="SD-7654597" group-title="Tennis", SD-7654597
+plugin://plugin.video.daddylive/?mode=play&id=7654597
+#EXTINF:-1 tvg-id="7654596" tvg-name="SD-7654596" group-title="Tennis", SD-7654596
+plugin://plugin.video.daddylive/?mode=play&id=7654596
+#EXTINF:-1 tvg-id="7654584" tvg-name="SD-7654584" group-title="Tennis", SD-7654584
+plugin://plugin.video.daddylive/?mode=play&id=7654584
+#EXTINF:-1 tvg-id="7654591" tvg-name="SD-7654591" group-title="Tennis", SD-7654591
+plugin://plugin.video.daddylive/?mode=play&id=7654591
+#EXTINF:-1 tvg-id="7653280" tvg-name="SD-7653280" group-title="Tennis", SD-7653280
+plugin://plugin.video.daddylive/?mode=play&id=7653280
+#EXTINF:-1 tvg-id="7653282" tvg-name="SD-7653282" group-title="Tennis", SD-7653282
+plugin://plugin.video.daddylive/?mode=play&id=7653282
+#EXTINF:-1 tvg-id="607" tvg-name="Rally Tv" group-title="Motorsport", Rally Tv
+plugin://plugin.video.daddylive/?mode=play&id=607
+#EXTINF:-1 tvg-id="32" tvg-name="TNT Sports 2 UK" group-title="Motorsport", TNT Sports 2 UK
+plugin://plugin.video.daddylive/?mode=play&id=32
+#EXTINF:-1 tvg-id="563" tvg-name="Motowizja Poland" group-title="Motorsport", Motowizja Poland
+plugin://plugin.video.daddylive/?mode=play&id=563
+#EXTINF:-1 tvg-id="464" tvg-name="Canal+ Sport360" group-title="Motorsport", Canal+ Sport360
+plugin://plugin.video.daddylive/?mode=play&id=464
+#EXTINF:-1 tvg-id="707" tvg-name="TV4 Sportkanalen" group-title="Motorsport", TV4 Sportkanalen
+plugin://plugin.video.daddylive/?mode=play&id=707
+#EXTINF:-1 tvg-id="556" tvg-name="Sky Sport Top Event DE" group-title="Motorsport", Sky Sport Top Event DE
+plugin://plugin.video.daddylive/?mode=play&id=556
+#EXTINF:-1 tvg-id="557" tvg-name="Sky Sport Mix DE" group-title="Motorsport", Sky Sport Mix DE
+plugin://plugin.video.daddylive/?mode=play&id=557
+#EXTINF:-1 tvg-id="702" tvg-name="TV4 Motor" group-title="Motorsport", TV4 Motor
+plugin://plugin.video.daddylive/?mode=play&id=702
+#EXTINF:-1 tvg-id="70" tvg-name="Sky Sports Golf UK" group-title="Golf", Sky Sports Golf UK
+plugin://plugin.video.daddylive/?mode=play&id=70
+#EXTINF:-1 tvg-id="318" tvg-name="GOLF Channel USA" group-title="Golf", GOLF Channel USA
+plugin://plugin.video.daddylive/?mode=play&id=318
+#EXTINF:-1 tvg-id="528" tvg-name="Movistar Golf" group-title="Golf", Movistar Golf
+plugin://plugin.video.daddylive/?mode=play&id=528
+#EXTINF:-1 tvg-id="422" tvg-name="SuperSport Golf" group-title="Golf", SuperSport Golf
+plugin://plugin.video.daddylive/?mode=play&id=422
+#EXTINF:-1 tvg-id="38" tvg-name="Sky Sports Main Event" group-title="Golf", Sky Sports Main Event
+plugin://plugin.video.daddylive/?mode=play&id=38
+#EXTINF:-1 tvg-id="588" tvg-name="Sky Sport 1 NZ" group-title="Golf", Sky Sport 1 NZ
+plugin://plugin.video.daddylive/?mode=play&id=588
+#EXTINF:-1 tvg-id="316" tvg-name="ESPNU USA" group-title="Wrestling", ESPNU USA
+plugin://plugin.video.daddylive/?mode=play&id=316
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN USA" group-title="Wrestling", ESPN USA
+plugin://plugin.video.daddylive/?mode=play&id=44
+#EXTINF:-1 tvg-id="409" tvg-name="Sportsnet 360" group-title="Wrestling", Sportsnet 360
+plugin://plugin.video.daddylive/?mode=play&id=409
+#EXTINF:-1 tvg-id="353" tvg-name="ITV 4 UK" group-title="Snooker", ITV 4 UK
+plugin://plugin.video.daddylive/?mode=play&id=353
+#EXTINF:-1 tvg-id="57" tvg-name="EuroSport 1 Poland" group-title="Snooker", EuroSport 1 Poland
+plugin://plugin.video.daddylive/?mode=play&id=57
+#EXTINF:-1 tvg-id="524" tvg-name="EuroSport 1 Spain" group-title="Snooker", EuroSport 1 Spain
+plugin://plugin.video.daddylive/?mode=play&id=524
+#EXTINF:-1 tvg-id="772" tvg-name="EuroSport 1 France" group-title="Snooker", EuroSport 1 France
+plugin://plugin.video.daddylive/?mode=play&id=772
+#EXTINF:-1 tvg-id="7660194" tvg-name="SD-7660194" group-title="Snooker", SD-7660194
+plugin://plugin.video.daddylive/?mode=play&id=7660194
+#EXTINF:-1 tvg-id="596" tvg-name="Sky Sport 9 NZ" group-title="Snooker", Sky Sport 9 NZ
+plugin://plugin.video.daddylive/?mode=play&id=596
+#EXTINF:-1 tvg-id="7660205" tvg-name="SD-7660205" group-title="Snooker", SD-7660205
+plugin://plugin.video.daddylive/?mode=play&id=7660205
+#EXTINF:-1 tvg-id="397" tvg-name="BTN USA" group-title="Baseball", BTN USA
+plugin://plugin.video.daddylive/?mode=play&id=397
+#EXTINF:-1 tvg-id="385" tvg-name="SEC Network USA" group-title="Baseball", SEC Network USA
+plugin://plugin.video.daddylive/?mode=play&id=385
+#EXTINF:-1 tvg-id="664" tvg-name="ACC Network USA" group-title="Baseball", ACC Network USA
+plugin://plugin.video.daddylive/?mode=play&id=664
+#EXTINF:-1 tvg-id="399" tvg-name="MLB Network" group-title="Baseball", MLB Network
+plugin://plugin.video.daddylive/?mode=play&id=399
+#EXTINF:-1 tvg-id="407" tvg-name="Sportsnet West" group-title="Baseball", Sportsnet West
+plugin://plugin.video.daddylive/?mode=play&id=407
+#EXTINF:-1 tvg-id="494" tvg-name="beIN Sports 4 Max France" group-title="Baseball", beIN Sports 4 Max France
+plugin://plugin.video.daddylive/?mode=play&id=494
+#EXTINF:-1 tvg-id="7584525" tvg-name="SD-7584525" group-title="Baseball", SD-7584525
+plugin://plugin.video.daddylive/?mode=play&id=7584525
+#EXTINF:-1 tvg-id="7584526" tvg-name="SD-7584526" group-title="Baseball", SD-7584526
+plugin://plugin.video.daddylive/?mode=play&id=7584526
+#EXTINF:-1 tvg-id="7584563" tvg-name="SD-7584563" group-title="Baseball", SD-7584563
+plugin://plugin.video.daddylive/?mode=play&id=7584563
+#EXTINF:-1 tvg-id="762" tvg-name="NESN USA" group-title="Baseball", NESN USA
+plugin://plugin.video.daddylive/?mode=play&id=762
+#EXTINF:-1 tvg-id="7584574" tvg-name="SD-7584574" group-title="Baseball", SD-7584574
+plugin://plugin.video.daddylive/?mode=play&id=7584574
+#EXTINF:-1 tvg-id="829" tvg-name="MASN USA" group-title="Baseball", MASN USA
+plugin://plugin.video.daddylive/?mode=play&id=829
+#EXTINF:-1 tvg-id="7584573" tvg-name="SD-7584573" group-title="Baseball", SD-7584573
+plugin://plugin.video.daddylive/?mode=play&id=7584573
+#EXTINF:-1 tvg-id="7446139" tvg-name="SD-7446139" group-title="Basketball", SD-7446139
+plugin://plugin.video.daddylive/?mode=play&id=7446139
+#EXTINF:-1 tvg-id="7446138" tvg-name="SD-7446138" group-title="Basketball", SD-7446138
+plugin://plugin.video.daddylive/?mode=play&id=7446138
+#EXTINF:-1 tvg-id="69" tvg-name="ESPN+ USA" group-title="Basketball", ESPN+ USA
+plugin://plugin.video.daddylive/?mode=play&id=69
+#EXTINF:-1 tvg-id="115" tvg-name="TSN5" group-title="Basketball", TSN5
+plugin://plugin.video.daddylive/?mode=play&id=115
+#EXTINF:-1 tvg-id="114" tvg-name="TSN4" group-title="Basketball", TSN4
+plugin://plugin.video.daddylive/?mode=play&id=114
+#EXTINF:-1 tvg-id="455" tvg-name="DAZN Eleven 1 Portugal" group-title="Basketball", DAZN Eleven 1 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=455
+#EXTINF:-1 tvg-id="341" tvg-name="truTV USA" group-title="Basketball", truTV USA
+plugin://plugin.video.daddylive/?mode=play&id=341
+#EXTINF:-1 tvg-id="111" tvg-name="TSN1" group-title="Basketball", TSN1
+plugin://plugin.video.daddylive/?mode=play&id=111
+#EXTINF:-1 tvg-id="30" tvg-name="Nova Sport 1 Czech" group-title="Basketball", Nova Sport 1 Czech
+plugin://plugin.video.daddylive/?mode=play&id=30
+#EXTINF:-1 tvg-id="20" tvg-name="Magenta Sport 304" group-title="Basketball", Magenta Sport 304
+plugin://plugin.video.daddylive/?mode=play&id=20
+#EXTINF:-1 tvg-id="634" tvg-name="Nova Sports 4 Greece" group-title="Basketball", Nova Sports 4 Greece
+plugin://plugin.video.daddylive/?mode=play&id=634
+#EXTINF:-1 tvg-id="527" tvg-name="Movistar Deportes 4 Spain" group-title="Basketball", Movistar Deportes 4 Spain
+plugin://plugin.video.daddylive/?mode=play&id=527
+#EXTINF:-1 tvg-id="473" tvg-name="MAX Sport 2 Bulgaria" group-title="Basketball", MAX Sport 2 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=473
+#EXTINF:-1 tvg-id="146" tvg-name="Sport 5 Live Israel" group-title="Basketball", Sport 5 Live Israel
+plugin://plugin.video.daddylive/?mode=play&id=146
+#EXTINF:-1 tvg-id="7228656" tvg-name="SD-7228656" group-title="Basketball", SD-7228656
+plugin://plugin.video.daddylive/?mode=play&id=7228656
+#EXTINF:-1 tvg-id="21" tvg-name="Magenta Sport 302" group-title="Basketball", Magenta Sport 302
+plugin://plugin.video.daddylive/?mode=play&id=21
+#EXTINF:-1 tvg-id="526" tvg-name="Movistar Deportes 3 Spain" group-title="Basketball", Movistar Deportes 3 Spain
+plugin://plugin.video.daddylive/?mode=play&id=526
+#EXTINF:-1 tvg-id="635" tvg-name="Nova Sports 5 Greece" group-title="Basketball", Nova Sports 5 Greece
+plugin://plugin.video.daddylive/?mode=play&id=635
+#EXTINF:-1 tvg-id="475" tvg-name="MAX Sport 4 Bulgaria" group-title="Basketball", MAX Sport 4 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=475
+#EXTINF:-1 tvg-id="7227641" tvg-name="SD-7227641" group-title="Basketball", SD-7227641
+plugin://plugin.video.daddylive/?mode=play&id=7227641
+#EXTINF:-1 tvg-id="105" tvg-name="Magenta Sport 301" group-title="Basketball", Magenta Sport 301
+plugin://plugin.video.daddylive/?mode=play&id=105
+#EXTINF:-1 tvg-id="22" tvg-name="Magenta Sport 303" group-title="Basketball", Magenta Sport 303
+plugin://plugin.video.daddylive/?mode=play&id=22
+#EXTINF:-1 tvg-id="25" tvg-name="Movistar Deportes 7 Spain" group-title="Basketball", Movistar Deportes 7 Spain
+plugin://plugin.video.daddylive/?mode=play&id=25
+#EXTINF:-1 tvg-id="26" tvg-name="Polsat Sport Fight Poland" group-title="Basketball", Polsat Sport Fight Poland
+plugin://plugin.video.daddylive/?mode=play&id=26
+#EXTINF:-1 tvg-id="144" tvg-name="Sport 5 Israel" group-title="Basketball", Sport 5 Israel
+plugin://plugin.video.daddylive/?mode=play&id=144
+#EXTINF:-1 tvg-id="7228655" tvg-name="SD-7228655" group-title="Basketball", SD-7228655
+plugin://plugin.video.daddylive/?mode=play&id=7228655
+#EXTINF:-1 tvg-id="23" tvg-name="Magenta Sport 305" group-title="Basketball", Magenta Sport 305
+plugin://plugin.video.daddylive/?mode=play&id=23
+#EXTINF:-1 tvg-id="436" tvg-name="Movistar Deportes Spain" group-title="Basketball", Movistar Deportes Spain
+plugin://plugin.video.daddylive/?mode=play&id=436
+#EXTINF:-1 tvg-id="7228657" tvg-name="SD-7228657" group-title="Basketball", SD-7228657
+plugin://plugin.video.daddylive/?mode=play&id=7228657
+#EXTINF:-1 tvg-id="24" tvg-name="Magenta Sport 306" group-title="Basketball", Magenta Sport 306
+plugin://plugin.video.daddylive/?mode=play&id=24
+#EXTINF:-1 tvg-id="636" tvg-name="Nova Sports 6 Greece" group-title="Basketball", Nova Sports 6 Greece
+plugin://plugin.video.daddylive/?mode=play&id=636
+#EXTINF:-1 tvg-id="7228658" tvg-name="SD-7228658" group-title="Basketball", SD-7228658
+plugin://plugin.video.daddylive/?mode=play&id=7228658
+#EXTINF:-1 tvg-id="529" tvg-name="Teledeporte Spain (TDP)" group-title="Basketball", Teledeporte Spain (TDP)
+plugin://plugin.video.daddylive/?mode=play&id=529
+#EXTINF:-1 tvg-id="336" tvg-name="TBS USA" group-title="Basketball", TBS USA
+plugin://plugin.video.daddylive/?mode=play&id=336
+#EXTINF:-1 tvg-id="456" tvg-name="DAZN Eleven 2 Portugal" group-title="Basketball", DAZN Eleven 2 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=456
+#EXTINF:-1 tvg-id="754" tvg-name="NBCS Boston USA" group-title="Basketball", NBCS Boston USA
+plugin://plugin.video.daddylive/?mode=play&id=754
+#EXTINF:-1 tvg-id="151" tvg-name="ESPN+ USA" group-title="Basketball", ESPN+ USA
+plugin://plugin.video.daddylive/?mode=play&id=151
+#EXTINF:-1 tvg-id="152" tvg-name="ESPN+ USA" group-title="Basketball", ESPN+ USA
+plugin://plugin.video.daddylive/?mode=play&id=152
+#EXTINF:-1 tvg-id="153" tvg-name="ESPN+ USA" group-title="Basketball", ESPN+ USA
+plugin://plugin.video.daddylive/?mode=play&id=153
+#EXTINF:-1 tvg-id="7584560" tvg-name="SD-7584560" group-title="Basketball", SD-7584560
+plugin://plugin.video.daddylive/?mode=play&id=7584560
+#EXTINF:-1 tvg-id="154" tvg-name="ESPN+ USA" group-title="Basketball", ESPN+ USA
+plugin://plugin.video.daddylive/?mode=play&id=154
+#EXTINF:-1 tvg-id="338" tvg-name="TNT USA" group-title="Basketball", TNT USA
+plugin://plugin.video.daddylive/?mode=play&id=338
+#EXTINF:-1 tvg-id="45" tvg-name="ESPN2 USA" group-title="Basketball", ESPN2 USA
+plugin://plugin.video.daddylive/?mode=play&id=45
+#EXTINF:-1 tvg-id="76" tvg-name="Away Feed" group-title="Basketball", Away Feed
+plugin://plugin.video.daddylive/?mode=play&id=76
+#EXTINF:-1 tvg-id="765" tvg-name="MSG USA" group-title="Basketball", MSG USA
+plugin://plugin.video.daddylive/?mode=play&id=765
+#EXTINF:-1 tvg-id="7520023" tvg-name="SD-7520023" group-title="Basketball", SD-7520023
+plugin://plugin.video.daddylive/?mode=play&id=7520023
+#EXTINF:-1 tvg-id="77" tvg-name="Home Feed" group-title="Basketball", Home Feed
+plugin://plugin.video.daddylive/?mode=play&id=77
+#EXTINF:-1 tvg-id="86" tvg-name="Away Feed" group-title="Basketball", Away Feed
+plugin://plugin.video.daddylive/?mode=play&id=86
+#EXTINF:-1 tvg-id="763" tvg-name="YES USA" group-title="Basketball", YES USA
+plugin://plugin.video.daddylive/?mode=play&id=763
+#EXTINF:-1 tvg-id="404" tvg-name="NBA TV USA" group-title="Basketball", NBA TV USA
+plugin://plugin.video.daddylive/?mode=play&id=404
+#EXTINF:-1 tvg-id="7520018" tvg-name="SD-7520018" group-title="Basketball", SD-7520018
+plugin://plugin.video.daddylive/?mode=play&id=7520018
+#EXTINF:-1 tvg-id="106" tvg-name="Away Feed" group-title="Basketball", Away Feed
+plugin://plugin.video.daddylive/?mode=play&id=106
+#EXTINF:-1 tvg-id="411" tvg-name="Sportsnet One" group-title="Basketball", Sportsnet One
+plugin://plugin.video.daddylive/?mode=play&id=411
+#EXTINF:-1 tvg-id="628" tvg-name="Cosmote Sport 7 Greece" group-title="Basketball", Cosmote Sport 7 Greece
+plugin://plugin.video.daddylive/?mode=play&id=628
+#EXTINF:-1 tvg-id="7520346" tvg-name="SD-7520346" group-title="Basketball", SD-7520346
+plugin://plugin.video.daddylive/?mode=play&id=7520346
+#EXTINF:-1 tvg-id="107" tvg-name="Home Feed" group-title="Basketball", Home Feed
+plugin://plugin.video.daddylive/?mode=play&id=107
+#EXTINF:-1 tvg-id="108" tvg-name="Away Feed" group-title="Basketball", Away Feed
+plugin://plugin.video.daddylive/?mode=play&id=108
+#EXTINF:-1 tvg-id="755" tvg-name="NBCS California" group-title="Basketball", NBCS California
+plugin://plugin.video.daddylive/?mode=play&id=755
+#EXTINF:-1 tvg-id="7520105" tvg-name="SD-7520105" group-title="Basketball", SD-7520105
+plugin://plugin.video.daddylive/?mode=play&id=7520105
+#EXTINF:-1 tvg-id="109" tvg-name="Home Feed" group-title="Basketball", Home Feed
+plugin://plugin.video.daddylive/?mode=play&id=109
+#EXTINF:-1 tvg-id="110" tvg-name="Away Feed" group-title="Basketball", Away Feed
+plugin://plugin.video.daddylive/?mode=play&id=110
+#EXTINF:-1 tvg-id="33" tvg-name="TNT Sports 3 UK" group-title="Basketball", TNT Sports 3 UK
+plugin://plugin.video.daddylive/?mode=play&id=33
+#EXTINF:-1 tvg-id="764" tvg-name="Spectrum SportsNet" group-title="Basketball", Spectrum SportsNet
+plugin://plugin.video.daddylive/?mode=play&id=764
+#EXTINF:-1 tvg-id="462" tvg-name="Sky Sport Arena IT" group-title="Basketball", Sky Sport Arena IT
+plugin://plugin.video.daddylive/?mode=play&id=462
+#EXTINF:-1 tvg-id="116" tvg-name="beIN Sports 1 France" group-title="Basketball", beIN Sports 1 France
+plugin://plugin.video.daddylive/?mode=play&id=116
+#EXTINF:-1 tvg-id="625" tvg-name="Cosmote Sport 4 Greece" group-title="Basketball", Cosmote Sport 4 Greece
+plugin://plugin.video.daddylive/?mode=play&id=625
+#EXTINF:-1 tvg-id="412" tvg-name="SuperSport Grandstand" group-title="Cycling", SuperSport Grandstand
+plugin://plugin.video.daddylive/?mode=play&id=412
+#EXTINF:-1 tvg-id="7657037" tvg-name="SD-7657037" group-title="Badminton", SD-7657037
+plugin://plugin.video.daddylive/?mode=play&id=7657037
+#EXTINF:-1 tvg-id="7657043" tvg-name="SD-7657043" group-title="Badminton", SD-7657043
+plugin://plugin.video.daddylive/?mode=play&id=7657043
+#EXTINF:-1 tvg-id="6570900" tvg-name="SD-6570900" group-title="Badminton", SD-6570900
+plugin://plugin.video.daddylive/?mode=play&id=6570900
+#EXTINF:-1 tvg-id="37" tvg-name="Sky Sports Action UK" group-title="Darts", Sky Sports Action UK
+plugin://plugin.video.daddylive/?mode=play&id=37
+#EXTINF:-1 tvg-id="641" tvg-name="Sport1 DE" group-title="Darts", Sport1 DE
+plugin://plugin.video.daddylive/?mode=play&id=641
+#EXTINF:-1 tvg-id="809" tvg-name="TV3 Sport Denmark" group-title="Darts", TV3 Sport Denmark
+plugin://plugin.video.daddylive/?mode=play&id=809
+#EXTINF:-1 tvg-id="587" tvg-name="Sky Sport Select NZ" group-title="Darts", Sky Sport Select NZ
+plugin://plugin.video.daddylive/?mode=play&id=587
+#EXTINF:-1 tvg-id="540" tvg-name="Canal 11 Portugal" group-title="Futsal", Canal 11 Portugal
+plugin://plugin.video.daddylive/?mode=play&id=540
+#EXTINF:-1 tvg-id="7595454" tvg-name="SD-7595454" group-title="Handball", SD-7595454
+plugin://plugin.video.daddylive/?mode=play&id=7595454
+#EXTINF:-1 tvg-id="7584533" tvg-name="SD-7584533" group-title="Handball", SD-7584533
+plugin://plugin.video.daddylive/?mode=play&id=7584533
+#EXTINF:-1 tvg-id="810" tvg-name="TV2 Sport Denmark" group-title="Handball", TV2 Sport Denmark
+plugin://plugin.video.daddylive/?mode=play&id=810
+#EXTINF:-1 tvg-id="7584527" tvg-name="SD-7584527" group-title="Handball", SD-7584527
+plugin://plugin.video.daddylive/?mode=play&id=7584527
+#EXTINF:-1 tvg-id="223" tvg-name="TV3 Max Denmark" group-title="Handball", TV3 Max Denmark
+plugin://plugin.video.daddylive/?mode=play&id=223
+#EXTINF:-1 tvg-id="27" tvg-name="Sport 2 Hungary" group-title="Handball", Sport 2 Hungary
+plugin://plugin.video.daddylive/?mode=play&id=27
+#EXTINF:-1 tvg-id="629" tvg-name="Cosmote Sport 8 Greece" group-title="Handball", Cosmote Sport 8 Greece
+plugin://plugin.video.daddylive/?mode=play&id=629
+#EXTINF:-1 tvg-id="7584532" tvg-name="SD-7584532" group-title="Handball", SD-7584532
+plugin://plugin.video.daddylive/?mode=play&id=7584532
+#EXTINF:-1 tvg-id="554" tvg-name="Sky Sports Racing UK" group-title="Horse Racing", Sky Sports Racing UK
+plugin://plugin.video.daddylive/?mode=play&id=554
+#EXTINF:-1 tvg-id="7633238" tvg-name="SD-7633238" group-title="Ice Hockey", SD-7633238
+plugin://plugin.video.daddylive/?mode=play&id=7633238
+#EXTINF:-1 tvg-id="7633233" tvg-name="SD-7633233" group-title="Ice Hockey", SD-7633233
+plugin://plugin.video.daddylive/?mode=play&id=7633233
+#EXTINF:-1 tvg-id="7645105" tvg-name="SD-7645105" group-title="Ice Hockey", SD-7645105
+plugin://plugin.video.daddylive/?mode=play&id=7645105
+#EXTINF:-1 tvg-id="7648950" tvg-name="SD-7648950" group-title="Ice Hockey", SD-7648950
+plugin://plugin.video.daddylive/?mode=play&id=7648950
+#EXTINF:-1 tvg-id="28" tvg-name="TV2 Sport 2 Norway" group-title="Ice Hockey", TV2 Sport 2 Norway
+plugin://plugin.video.daddylive/?mode=play&id=28
+#EXTINF:-1 tvg-id="704" tvg-name="TV4 Sport Live 2 Sweden" group-title="Ice Hockey", TV4 Sport Live 2 Sweden
+plugin://plugin.video.daddylive/?mode=play&id=704
+#EXTINF:-1 tvg-id="700" tvg-name="TV4 Hockey" group-title="Ice Hockey", TV4 Hockey
+plugin://plugin.video.daddylive/?mode=play&id=700
+#EXTINF:-1 tvg-id="640" tvg-name="Sport1+ Germany" group-title="Ice Hockey", Sport1+ Germany
+plugin://plugin.video.daddylive/?mode=play&id=640
+#EXTINF:-1 tvg-id="703" tvg-name="TV4 Sport Live 1 Sweden" group-title="Ice Hockey", TV4 Sport Live 1 Sweden
+plugin://plugin.video.daddylive/?mode=play&id=703
+#EXTINF:-1 tvg-id="705" tvg-name="TV4 Sport Live 3 Sweden" group-title="Ice Hockey", TV4 Sport Live 3 Sweden
+plugin://plugin.video.daddylive/?mode=play&id=705
+#EXTINF:-1 tvg-id="7584553" tvg-name="SD-7584553" group-title="Ice Hockey", SD-7584553
+plugin://plugin.video.daddylive/?mode=play&id=7584553
+#EXTINF:-1 tvg-id="29" tvg-name="3 Schweiz" group-title="Ice Hockey", 3 Schweiz
+plugin://plugin.video.daddylive/?mode=play&id=29
+#EXTINF:-1 tvg-id="7584552" tvg-name="SD-7584552" group-title="Ice Hockey", SD-7584552
+plugin://plugin.video.daddylive/?mode=play&id=7584552
+#EXTINF:-1 tvg-id="840" tvg-name="RDS 2 CA" group-title="Ice Hockey", RDS 2 CA
+plugin://plugin.video.daddylive/?mode=play&id=840
+#EXTINF:-1 tvg-id="923" tvg-name="Altitude USA" group-title="Ice Hockey", Altitude USA
+plugin://plugin.video.daddylive/?mode=play&id=923
+#EXTINF:-1 tvg-id="7520448" tvg-name="SD-7520448" group-title="Ice Hockey", SD-7520448
+plugin://plugin.video.daddylive/?mode=play&id=7520448
+#EXTINF:-1 tvg-id="7520436" tvg-name="SD-7520436" group-title="Ice Hockey", SD-7520436
+plugin://plugin.video.daddylive/?mode=play&id=7520436
+#EXTINF:-1 tvg-id="406" tvg-name="Sportsnet Ontario" group-title="Ice Hockey", Sportsnet Ontario
+plugin://plugin.video.daddylive/?mode=play&id=406
+#EXTINF:-1 tvg-id="7520441" tvg-name="SD-7520441" group-title="Ice Hockey", SD-7520441
+plugin://plugin.video.daddylive/?mode=play&id=7520441
+#EXTINF:-1 tvg-id="408" tvg-name="Sportsnet East" group-title="Ice Hockey", Sportsnet East
+plugin://plugin.video.daddylive/?mode=play&id=408
+#EXTINF:-1 tvg-id="778" tvg-name="Monumental Sports Network" group-title="Ice Hockey", Monumental Sports Network
+plugin://plugin.video.daddylive/?mode=play&id=778
+#EXTINF:-1 tvg-id="777" tvg-name="NBCS Philadelphia" group-title="Ice Hockey", NBCS Philadelphia
+plugin://plugin.video.daddylive/?mode=play&id=777
+#EXTINF:-1 tvg-id="7520495" tvg-name="SD-7520495" group-title="Ice Hockey", SD-7520495
+plugin://plugin.video.daddylive/?mode=play&id=7520495
+#EXTINF:-1 tvg-id="550" tvg-name="Viaplay Sports 2 UK" group-title="Ice Hockey", Viaplay Sports 2 UK
+plugin://plugin.video.daddylive/?mode=play&id=550
+#EXTINF:-1 tvg-id="7520395" tvg-name="SD-7520395" group-title="Ice Hockey", SD-7520395
+plugin://plugin.video.daddylive/?mode=play&id=7520395
+#EXTINF:-1 tvg-id="839" tvg-name="RDS CA" group-title="Ice Hockey", RDS CA
+plugin://plugin.video.daddylive/?mode=play&id=839
+#EXTINF:-1 tvg-id="7520532" tvg-name="SD-7520532" group-title="Ice Hockey", SD-7520532
+plugin://plugin.video.daddylive/?mode=play&id=7520532
+#EXTINF:-1 tvg-id="7520559" tvg-name="SD-7520559" group-title="Ice Hockey", SD-7520559
+plugin://plugin.video.daddylive/?mode=play&id=7520559
+#EXTINF:-1 tvg-id="7520429" tvg-name="SD-7520429" group-title="Ice Hockey", SD-7520429
+plugin://plugin.video.daddylive/?mode=play&id=7520429
+#EXTINF:-1 tvg-id="905" tvg-name="Bally Sports Sun" group-title="Ice Hockey", Bally Sports Sun
+plugin://plugin.video.daddylive/?mode=play&id=905
+#EXTINF:-1 tvg-id="7520400" tvg-name="SD-7520400" group-title="Ice Hockey", SD-7520400
+plugin://plugin.video.daddylive/?mode=play&id=7520400
+#EXTINF:-1 tvg-id="7520387" tvg-name="SD-7520387" group-title="Ice Hockey", SD-7520387
+plugin://plugin.video.daddylive/?mode=play&id=7520387
+#EXTINF:-1 tvg-id="819" tvg-name="TV3+ Denmark HD" group-title="Ice Hockey", TV3+ Denmark HD
+plugin://plugin.video.daddylive/?mode=play&id=819
+#EXTINF:-1 tvg-id="7520533" tvg-name="SD-7520533" group-title="Ice Hockey", SD-7520533
+plugin://plugin.video.daddylive/?mode=play&id=7520533
+#EXTINF:-1 tvg-id="7520560" tvg-name="SD-7520560" group-title="Ice Hockey", SD-7520560
+plugin://plugin.video.daddylive/?mode=play&id=7520560
+#EXTINF:-1 tvg-id="833" tvg-name="TVA Sports" group-title="Ice Hockey", TVA Sports
+plugin://plugin.video.daddylive/?mode=play&id=833
+#EXTINF:-1 tvg-id="7520489" tvg-name="SD-7520489" group-title="Ice Hockey", SD-7520489
+plugin://plugin.video.daddylive/?mode=play&id=7520489
+#EXTINF:-1 tvg-id="7520534" tvg-name="SD-7520534" group-title="Ice Hockey", SD-7520534
+plugin://plugin.video.daddylive/?mode=play&id=7520534
+#EXTINF:-1 tvg-id="118" tvg-name="beIN Sports 3 France" group-title="Rugby League", beIN Sports 3 France
+plugin://plugin.video.daddylive/?mode=play&id=118
+#EXTINF:-1 tvg-id="410" tvg-name="Sportsnet World" group-title="Rugby League", Sportsnet World
+plugin://plugin.video.daddylive/?mode=play&id=410
+#EXTINF:-1 tvg-id="47" tvg-name="Polsat Sport 1 Poland" group-title="Volleyball", Polsat Sport 1 Poland
+plugin://plugin.video.daddylive/?mode=play&id=47
+#EXTINF:-1 tvg-id="877" tvg-name="Zona DAZN IT" group-title="Volleyball", Zona DAZN IT
+plugin://plugin.video.daddylive/?mode=play&id=877
+#EXTINF:-1 tvg-id="460" tvg-name="Sky Sport Max IT" group-title="Volleyball", Sky Sport Max IT
+plugin://plugin.video.daddylive/?mode=play&id=460
+#EXTINF:-1 tvg-id="474" tvg-name="MAX Sport 3 Bulgaria" group-title="Volleyball", MAX Sport 3 Bulgaria
+plugin://plugin.video.daddylive/?mode=play&id=474
+#EXTINF:-1 tvg-id="770" tvg-name="Marquee Sports Network" group-title="Volleyball", Marquee Sports Network
+plugin://plugin.video.daddylive/?mode=play&id=770
+#EXTINF:-1 tvg-id="34" tvg-name="TNT Sports 4 UK" group-title="Weightlifting", TNT Sports 4 UK
+plugin://plugin.video.daddylive/?mode=play&id=34
+#EXTINF:-1 tvg-id="58" tvg-name="EuroSport 2 Poland" group-title="Weightlifting", EuroSport 2 Poland
+plugin://plugin.video.daddylive/?mode=play&id=58
+#EXTINF:-1 tvg-id="525" tvg-name="EuroSport 2 Spain" group-title="Weightlifting", EuroSport 2 Spain
+plugin://plugin.video.daddylive/?mode=play&id=525
+#EXTINF:-1 tvg-id="773" tvg-name="EuroSport 2 France" group-title="Weightlifting", EuroSport 2 France
+plugin://plugin.video.daddylive/?mode=play&id=773
