@@ -1,4 +1,62 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/in.xml.gz"
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/1tMzxpwx/images-4.jpg" group-title="Akash",Baby Shark TV (720p) 📺(Kids)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/LDRt8jR1/images-16.jpg" group-title="Akash",Batul The Great 📺(Kids)
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/RWVWqNG/images.jpg" group-title="Akash",CARTOON NETWORK 📺(Kids)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="Akash",CHUMBAK TV 📺(Kids)
+https://cdn-1.pishow.tv/live/1451/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Akash",Disney Channel_HD 📺 (kids)
+https://stream.himelop-pro.top/vm/disneyop.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/v4LzBCKn/images-15.jpg" group-title="Akash",Doraemon 📺(Kids)
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/tMSJBJHB/IMG-20250703-214307-751.jpg" group-title="Akash",GOPAL BHAR 📺(Kids)
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Bvbf9o7.png" group-title="Akash",Gubbare 📺(Kids)
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Akash",Jungle Book 📺(Kids)
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1473.png" group-title="Akash",KUSHBOO 📺(Kids)
+https://cdn-4.pishow.tv/live/1473/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1474.jpg" group-title="Akash",MANORANJAN PRIME 📺(Kids)
+https://cdn-4.pishow.tv/live/1474/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/WpkYDj8R/images-5.jpg" group-title="Akash",MANORANJAN TV 📺(Kids)
+https://cdn-1.pishow.tv/live/1013/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4wLvZ10j/images-14.jpg" group-title="Akash",Motu Patlu 📺(Kids)
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/bM1nKXrh/images-4.jpg" group-title="Akash",Nick Bangla 📺(Kids)
+http://tv.bdiptv.store/live/restreauuX58/refstream/96.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/CpJHCfk1/IMG-20250715-093043-868.jpg" group-title="Akash",POGO HINDI 📺(Kids)
+http://app.hughag.store/api/d2586d604e/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1029.png" group-title="Akash",RONGEEN TV 📺(Kids)
+https://cdn-4.pishow.tv/live/1029/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/veawzl.png" group-title="Akash",Rongeen TV 📺(Kids) [Backup]
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="Akash",SRKTV BANGLA 📺(Kids)
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qFBDBPQf/images-17.jpg" group-title="Akash",Shinchan 📺(Kids)
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Akash",Somoy  📺
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg" group-title="Akash",Sonic Bangla 📺(Kids)
+http://tv.bdiptv.store/live/restreauuX58/refstream/242.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/TDPr8NM4/file-20180313-30983-1bk88tb.jpg" group-title="Akash",Tom & jery_sd 📺(Kids)
+https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Dish Tv",9xm Jalwa
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9Xjalwa.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HivVrdof.png" group-title="Dish Tv",And Pictures SD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/T1CCvaAQ.png" group-title="Dish Tv",And TV SD [Backup]
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="Dish Tv",Discovery Investigation [Backup]
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Dish Tv",Korean Drama Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ptcgyh.png" group-title="Dish Tv",Sansad TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sansadtvhd/default/Sansadtvhd.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Dish Tv",Shorts TV Active
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23195/urban-action-channel/poster_20250205_002520.jpg" group-title="Distro Tv",Action/Adventure,Classic Movies,English" group-title="Classic Shows & Movies" tvg-logo="https://a.jsrdn.com/hls/23195/urban-action-channel/poster_20250205_002520.jpg",Urban Action Channel
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/58XXIGAFT3S6VSMD82AP/hls3/now,-1m/m.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/poster_20250102_225526.jpg" group-title="Distro Tv",Action/Adventure,Drama,Mystery,Movies,Spanish" group-title="Español" tvg-logo="https://a.jsrdn.com/hls/23195/box-cinema/poster_20250102_225526.jpg",Box Cinema
@@ -913,6 +971,354 @@ https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc-sportstribal/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://watch.freelivesports.tv/&Origin=https://watch.freelivesports.tv
 #EXTINF:-1  tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f2099dc-39da-40f0-8958-fd36f6bc715f" group-title="Free Sports",ENG | eClutch Access
 https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/886e80b9-28df-4508-9c23-f12dd9f1550a/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36&Referer=https://watch.freelivesports.tv/&Origin=https://watch.freelivesports.tv
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000535.png" group-title="Free Tv",1st India News
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/6TV_telugu.png" group-title="Free Tv",6TV Telugu
+https://mumt01.tangotv.in/6tvtelugu/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/99_TV.png" group-title="Free Tv",99TV Telugu
+https://mumt02.tangotv.in/99TVTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Aone_imagine_oxZPMkT.png" group-title="Free Tv",A One Imagine [Backup]
+http://117.211.8.100:8080/0.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Abitv.png" group-title="Free Tv",ABI TV
+https://mumt02.tangotv.in/ABITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/AMV_Network.png" group-title="Free Tv",AMV News Network
+https://mumt02.tangotv.in/AMVNETWORK/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/ANB_NEWS.png" group-title="Free Tv",ANB News National
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/action_hollywood_movie.png" group-title="Free Tv",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Afrobeat_TV.png" group-title="Free Tv",Afrobeat
+https://stream.ecable.tv/afrobeats/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Amritgurbani.png" group-title="Free Tv",Amrit Gurbani
+https://mumt04.tangotv.in/AMRITGURBANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Ananadamtv.png" group-title="Free Tv",Anandam TV
+https://mumt02.tangotv.in/ANANDAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Anandpur_Live.png" group-title="Free Tv",Anandpur Live
+https://mumt05.tangotv.in/ANANDPURLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000273.png" group-title="Free Tv",Argus [Backup]
+https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/sadhana_Gold.png" group-title="Free Tv",C 10
+https://mumt03.tangotv.in/C10/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/CNBC_Bazaar.png" group-title="Free Tv",CNBC TV Bajaar
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/CVR_English.png" group-title="Free Tv",CVR News English
+https://mumt03.tangotv.in/CVRNEWSENGLISH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000212.png" group-title="Free Tv",CVR News Telugu
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/CVR_Spiritual_om.png" group-title="Free Tv",CVR Spiritual OM
+https://mumt01.tangotv.in/CVRSPRITUALOM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/chartikalatime_northAmerika.png" group-title="Free Tv",Chardikala Time TV North America
+https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000150.png" group-title="Free Tv",Chardikala Time TV [Backup]
+https://mumt02.tangotv.in/CHARDIKALATIMETV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Chhaya_Chitram_Telugu.png" group-title="Free Tv",Chhaya Chitram Telugu
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/PlayOut9/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Chintpurni_Live.png" group-title="Free Tv",Chintpurni Live
+https://mumt03.tangotv.in/CHINTPURNILIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Classic_hit.png" group-title="Free Tv",Classic Hits
+https://mumt03.tangotv.in/CLASSICHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/DD_Utrakhand.png" group-title="Free Tv",DD Utrakhand
+https://mumt03.tangotv.in/DDUTTRAKHAND/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Daily_post.png" group-title="Free Tv",Daily Post
+https://mumt01.tangotv.in/DAILYPOST/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/damdama_sahib.png" group-title="Free Tv",Damdama Sahib
+https://mumt03.tangotv.in/DAMDMASAHIB/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/dukhniwaran.png" group-title="Free Tv",Dukhnivaran Patiala Live
+https://mumt02.tangotv.in/DUKHNIWARANPATIALA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/dukhniwaran.png" group-title="Free Tv",Dukhniwaran
+https://mumt03.tangotv.in/DUKHNIWARAN/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Durgiana_Live.png" group-title="Free Tv",Durgiana Live
+https://mumt01.tangotv.in/DURGIANALIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Evergreenhits_FW.png" group-title="Free Tv",Evergreen Hits
+https://mumt02.tangotv.in/EVERGREENHITS2/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/fast1.png" group-title="Free Tv",Fast 1
+https://mumt03.tangotv.in/Fast1/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/fast_mix.png" group-title="Free Tv",FastMix
+https://mumt01.tangotv.in/FASTMIX/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/filmachi_bhojpuri.png" group-title="Free Tv",Filmachi Bhojpuri
+https://epiconvh.akamaized.net/live/filamchi/master_1080.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000658.png" group-title="Free Tv",Goldmines bollywood [Backup]
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Gujarat_Wild_TV.png" group-title="Free Tv",Gujarat Wild TV
+https://newsliveindia.com:4433/wildlife/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Hindihits_FW.png" group-title="Free Tv",Hindi Hits [Backup]
+https://mumt01.tangotv.in/HINDIHITS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/529_FreeTV_Hollywood_Classic_BW.png" group-title="Free Tv",Hollywood Black & White
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodBW/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/528_FreeTV_Hollywood_classic_CLR.png" group-title="Free Tv",Hollywood Color
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/HollywoodCLR/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/FreeTV_India_Talkies.png" group-title="Free Tv",India Talkies
+https://mumt01.tangotv.in/INDIATALKIES/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Janamtv_Tamil.png" group-title="Free Tv",Janam TV Tamil
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000271.png" group-title="Free Tv",Jinvani [Backup]
+https://mumt03.tangotv.in/JINVANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/josh_TV.png" group-title="Free Tv",Josh TV
+https://mumt03.tangotv.in/JOSHTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Lok_Shahi.png" group-title="Free Tv",Lokshahi Marathi
+https://mumt05.tangotv.in/LOKSAAHI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000258.png" group-title="Free Tv",MH One News [Backup]
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000259.png" group-title="Free Tv",MH One [Backup]
+https://mumt04.tangotv.in/MHONE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/MKN_NEWS_hindi.png" group-title="Free Tv",MKN News
+https://5dd3981940faa.streamlock.net/mknnews/mknnews/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/MahaBhakti.png" group-title="Free Tv",Maha Bhakti
+https://mumt01.tangotv.in/MAHABHAKTI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/mahotsavtv.png" group-title="Free Tv",Mahotsav TV [Backup]
+http://203.192.243.75:1935/mahotsav/playout/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Maina_TV.png" group-title="Free Tv",Maina TV
+https://mumt03.tangotv.in/MAINATV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000487.png" group-title="Free Tv",Manoranjan Prime [Backup]
+https://mumt02.tangotv.in/MANORANJANPRIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Madhimugam_tv.png" group-title="Free Tv",Mathimugam Tholaikatchi [Backup]
+https://mumt01.tangotv.in/MATHIMUGAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Matti.png" group-title="Free Tv",Matti TV
+https://mumt03.tangotv.in/MATTITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/media9.png" group-title="Free Tv",Media9 News
+http://tv.media9news.com:8080/hls/media9.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000376.png" group-title="Free Tv",Mojo TV
+https://mumt02.tangotv.in/MOJOTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/900_FreeTV_Movie_punjab.png" group-title="Free Tv",Movie Punjab
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/MoviePunjab/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/munshif_TV.png" group-title="Free Tv",Munsif TV Urdu
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/00_Tango_logo_cdYbkBp.png" group-title="Free Tv",NKR TV
+https://mumt05.tangotv.in/NKRTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000651.png" group-title="Free Tv",NKTV Plus Bangla
+https://mumt05.tangotv.in/NKTVPLUSBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000650.png" group-title="Free Tv",NKTV Plus [Backup]
+https://mumt05.tangotv.in/NKTVPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/namdhari_tv.jpg" group-title="Free Tv",Namdhari Channel
+https://hdvideo.namdhari.tv/live/sbs1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Nanasar_live.png" group-title="Free Tv",Nanaksar Live
+https://mumt01.tangotv.in/NANAKSARLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000098.png" group-title="Free Tv",News 11 Bharat [Backup]
+https://mumt02.tangotv.in/NEWS11BHARAT/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000495.png" group-title="Free Tv",News Hour
+https://mumt02.tangotv.in/NEWSHOUR/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/News_Live_Bangla.png" group-title="Free Tv",News Live Bangla
+https://mumt01.tangotv.in/NEWSLIVEBANGLA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000004.png" group-title="Free Tv",News24 MP/CG [Backup]
+https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/nistha_dhavani.png" group-title="Free Tv",Nistha Dhawani [Backup]
+https://nisthadhawani.in/NisthaDhawaniouthls/NisthaDhawan.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Nistha_HD.png" group-title="Free Tv",Nistha HD
+https://mumt03.tangotv.in/NISHTHAHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/padharosa.png" group-title="Free Tv",Padharo SA - Rajasthani
+https://mumt03.tangotv.in/PADHAROSA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/1655_FreeTV_Paigam.png" group-title="Free Tv",Paigham Television
+https://mumt05.tangotv.in/PAIGAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/pankh.png" group-title="Free Tv",Pankh
+https://mumt04.tangotv.in/PANKH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Pear_tv.png" group-title="Free Tv",Pear TV
+https://mumt01.tangotv.in/PEARTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Protidin_time.png" group-title="Free Tv",Protidin Time
+https://mumt03.tangotv.in/PROTIDINTIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/prudent_news_goa.png" group-title="Free Tv",Prudent News
+https://prudentmcdn.rixcast.com/prudentm.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Punjabi_Beats.png" group-title="Free Tv",Punjabi Beats HD
+https://mumt01.tangotv.in/PUNJABIBEATSHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Punjabi_Beats.png" group-title="Free Tv",Punjabi Beats [Backup]
+https://mumt01.tangotv.in/PUNJABIBEATSSD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Punjabi_Music_HD.png" group-title="Free Tv",Punjabi Music HD
+https://mumt02.tangotv.in/PUNJABIMUSICHD/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/tvPunjab.png" group-title="Free Tv",Punjabi TV
+https://mumt02.tangotv.in/PUNJABITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/RT_DOC.png" group-title="Free Tv",RT Doc
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Ragni.png" group-title="Free Tv",Ragni
+https://mumt04.tangotv.in/RAGNITV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Raj_Musix_Malayalam.png" group-title="Free Tv",Raj Musix Malyalam
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Raj_News_Malayalam.png" group-title="Free Tv",Raj News Malyalam
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Rajya_24_1.png" group-title="Free Tv",Rajya 24 News
+https://itassist.one/rajya24news/rajya24/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/SVBC2.png" group-title="Free Tv",SVBC 2 Tamil
+https://mumt03.tangotv.in/SVBC2TAMIL/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/SVBC3_Kannada.png" group-title="Free Tv",SVBC 3 Kannada
+https://mumt01.tangotv.in/SVBC3KANNADA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000366.png" group-title="Free Tv",SVBC 4 Hindi [Backup]
+https://mumt05.tangotv.in/SVBC4HINDI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000204.png" group-title="Free Tv",SVBC Telugu
+https://mumt04.tangotv.in/SVBCTELUGU/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Saang_TV.png" group-title="Free Tv",Saang
+https://mumt02.tangotv.in/SAANGTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000189.png" group-title="Free Tv",Sadhana Plus News
+https://mumt03.tangotv.in/SADHNAPLUSNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Sadhna_News_MPRAJ.png" group-title="Free Tv",Sadhna News MP
+https://mumt04.tangotv.in/SADHNEWSPMRAJ/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Sairam.png" group-title="Free Tv",Sairam TV [Backup]
+https://mumt04.tangotv.in/SAIRAMTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/samrattv.png" group-title="Free Tv",Samrat TV
+https://itassist.one/LIVEOTT/kahbar24x7/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000136.png" group-title="Free Tv",Santvani [Backup]
+https://mumt05.tangotv.in/SANTVANI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000037.png" group-title="Free Tv",Sarv Dharm Sangam
+https://mumt01.tangotv.in/SARAVDHARAMSANGAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Shaheedan_Live.png" group-title="Free Tv",Shaheedan Live
+https://mumt02.tangotv.in/SHAHEEDDANLIVE/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Shaheed_Baba_Deep_Singh.png" group-title="Free Tv",Shaheedan Shahib
+https://mumt03.tangotv.in/SHAHEEDBABADEEPSINGH/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Shalom.png" group-title="Free Tv",Shalom TV Global
+https://d28xtgmk9tfk6b.cloudfront.net/master_720.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000153.png" group-title="Free Tv",Shalom Tv India
+https://mumt01.tangotv.in/SHALOMTVINDIA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Shree_Bachu_Sahib.png" group-title="Free Tv",Shree Bhucho Sahib
+https://mumt02.tangotv.in/SHREEBACHUSAHIB/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Shree_Hazursahibji.png" group-title="Free Tv",Shree Hazur Sahibji
+https://mumt02.tangotv.in/SHREEHAZURSAHIBJI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000121.png" group-title="Free Tv",Siri Kannada All Time
+https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" group-title="Free Tv",Sonar Bangla
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/SonarBangla/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png" group-title="Free Tv",Soneri Cinema
+https://mumt04.tangotv.in/SONERICINEMA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000652.png" group-title="Free Tv",Spondon [Backup]
+https://mumt05.tangotv.in/SPONDON/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Sports_Squad_Hariyana.png" group-title="Free Tv",Sports Squad Haryana
+https://mumt01.tangotv.in/SPORTSSQUADHARYANA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Studio_N_News.png" group-title="Free Tv",Studio N News [Backup]
+https://mumt03.tangotv.in/STUDIONNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000263.png" group-title="Free Tv",Studio One Plus [Backup]
+https://mumt04.tangotv.in/STUDIOONEPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/superyatchtv.png" group-title="Free Tv",Super Yatch TV
+https://sy.wns.live/hls/stream.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/tv_nxt_marathi.png" group-title="Free Tv",TV NXT Marathi
+http://139.59.88.91:8080/hls/nxt1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/tv100.png" group-title="Free Tv",TV100
+https://mumt01.tangotv.in/TV100/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/tadka.png" group-title="Free Tv",Tadka
+https://mumt03.tangotv.in/TADKA/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/1152FreeTV_Tamil_Ratnam.png" group-title="Free Tv",Tamil Ratnam
+http://210.89.51.165:80/hlslive/Admin/RSPD031/live/TamilRatna/master_1.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000236.png" group-title="Free Tv",Tamilan Television
+https://mumt04.tangotv.in/TAMILANTELEVISION/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000115.png" group-title="Free Tv",The Q [Backup]
+https://mumt05.tangotv.in/THEQ/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000391.png" group-title="Free Tv",Total TV [Backup]
+https://mumt04.tangotv.in/TOTALTV/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000402.png" group-title="Free Tv",Twenty four
+https://mumt02.tangotv.in/TWENTYFOURNEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/Utvanandam.png" group-title="Free Tv",UTV Anandam
+https://mumt02.tangotv.in/UTVANANDAM/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/valichamplus.png" group-title="Free Tv",Valicham Plus [Backup]
+https://mumt05.tangotv.in/VALICHAMPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/Vertent_Samachar_plus.png" group-title="Free Tv",Vertent SamacharPlus
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/wion.png" group-title="Free Tv",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/World_Punjabi_TV.png" group-title="Free Tv",World Punjabi TV
+https://mumt02.tangotv.in/WPNWORLDPUNJABI/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/zee_chhatishgarh.png" group-title="Free Tv",Zee Chhatishgarh
+https://mumt02.tangotv.in/Zeechhatishgarh/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HL5mpdPg/24h-es.png" group-title="Izzi Go",24 HORAS ESPAÑA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/24HRSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/N0wjmXFk/adn-noticias.png" group-title="Izzi Go",ADN NOTICIAS
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/ADN-40-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RV1z61L7/basket-americas.png" group-title="Izzi Go",BASKET AMERICAS
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/g7qY9zb/BBC-World-News-2022-Boxed-svg.png" group-title="Izzi Go",BBC WORLD NEWS
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/BBCWORLDNEWSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xTv0gvcN/beisbol-tv.png" group-title="Izzi Go",BEISBOL LATINO
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="Izzi Go",Baby TV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/BABYTVSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",Bundesliga
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png" group-title="Izzi Go",CANAL DEL CONGRESO
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CONGRESOSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="Izzi Go",CNN Headline News
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/HLNSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/487/CH_LOGO/160/160/0/0/120048070713.png" group-title="Izzi Go",CNN INTERNACIONAL
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/CNNISD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/BQz9DWMp/comba-tv.png" group-title="Izzi Go",COMBATV
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png" group-title="Izzi Go",CONGRESO DIPUTADOS
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-DIPUTADOS-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/sxHqYN0m/canal-del-congreso-mx.png" group-title="Izzi Go",CONGRESO SENADORES
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-SENADORES-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/pLM6rZZY/cv-shopping.png" group-title="Izzi Go",CV Shopping Outlet
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/CVSHOPPINGSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/C14YvVk9/canal-6-plus.png" group-title="Izzi Go",Canal 6 Plus
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANAL6PLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/jdNpPd0T/izzi.pngIworldtv2" group-title="Izzi Go",Canal IZZI
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/CANALIZZISD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbYpLjCv/canal22.png" group-title="Izzi Go",Canal Veintidós
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/CANAL22HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51RdkY3/Deutsche-Welle-symbol-2012-svg.png" group-title="Izzi Go",DW English [Backup]
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/DWENGLISHSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/51RdkY3/Deutsche-Welle-symbol-2012-svg.png" group-title="Izzi Go",DW Español
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/DWLATINOSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/65/CH_LOGO/160/160/0/0/11000383072218.png?worldtv2" group-title="Izzi Go",Discovery H&H
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/DISCOVERYHOMEANDHEALTHHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/363/CH_LOGO/160/160/0/0/46230374071624.png?worldtv2" group-title="Izzi Go",Discovery TLC
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TLCHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/qMmvWvZ/dogtv.png" group-title="Izzi Go",DogTV
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/DOGTVSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/tCCKvmxL/edye.png?worldtv2" group-title="Izzi Go",EDYE TV
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/EDYEHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/fTjBQFvr/fox-news.png" group-title="Izzi Go",FOX NEWS [Backup]
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOXNEWSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/124/CH_LOGO/160/160/0/0/10237380072165.png" group-title="Izzi Go",HBO Plus
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/nzvqr4cg/heraldo-television.png" group-title="Izzi Go",Heraldo Televisión
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/HERALDOTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d04XR4hZ/LAS.png" group-title="Izzi Go",LATIN AMERICAN SPORTS
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/LATINAMERICANSPORTSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/XY8tHVG7/las-estrellas-1hrs.png" group-title="Izzi Go",Las Estrellas -1 HORA
+https://nog-live1-ott.izzigo.tv/4/out/u/dash/LASESTRELLAS1HRSSD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Jn9FD0gK/las-estrellas-2hrs.png" group-title="Izzi Go",Las Estrellas -2 HORAS
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/LASESTRELLAS2HRSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/WbTzqPjv/logomausstv01-scaled-e1761611368789-1024x918.webp" group-title="Izzi Go",MAUSSAN TV
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/SxR2fTMj/mx-al-aire-libre.webp" group-title="Izzi Go",MEXICO AL AIRE LIBRE
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/MEXICO-AL-AIRE-LIBRE-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Televisi%C3%B3n_Mexiquense_%28c._2020%29.png" group-title="Izzi Go",MEXIQUENSE TELEVISIÓN
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/TELEVISION-MEXIQUENSE-HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MX_Nuestro_Cine_2022~.png/revision/latest/scale-to-width-down/200?cb=20250512015312" group-title="Izzi Go",MX NUESTRO CINE
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/c4gphnSY/mariavision.png" group-title="Izzi Go",Maria Visión
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MARIAVISIONHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png" group-title="Izzi Go",Mariachi para siempre
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICMARIACHIPARASIEMPRE/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="Izzi Go",PACK PREMIUM UNIVERSAL+
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/UNIVERSALCINEMAHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/318/CH_LOGO/160/160/0/0/87610940072910.png" group-title="Izzi Go",Paramount
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/PARAMOUNTHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 1
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT1HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 2
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT2HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 3
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT3HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 4
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT4HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 5
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYLIVEEVENT5HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 6
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/SKYLIVEEVENT6HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 7
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYLIVEEVENT7HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/2560px-Sky_Sports_2025.svg.png" group-title="Izzi Go",SKY Evento 8
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYLIVEEVENT8HD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/267/CH_LOGO/160/160/0/0/223329100777.png?worldtv2" group-title="Izzi Go",Studio Universal
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/STUDIOUNIVERSALHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/301/CH_LOGO/160/160/0/0/9347484107170.png?worldtv2" group-title="Izzi Go",TLNovelas
+https://nog-live1-ott.izzigo.tv/5/out/u/dash/TLNOVELASHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/250px-TNT_Novelas_2025.svg.png?worldtv2" group-title="Izzi Go",TNT Novelas
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTNOVELASHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/TNT_Series_2025.svg/revision/latest/scale-to-width-down/300?cb=20250918154553|worldtv2" group-title="Izzi Go",TNT Series
+https://nog-live1-ott.izzigo.tv/1/out/u/dash/TNTSERIESHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.ibb.co/k0zYnm2/tv-galicia.png" group-title="Izzi Go",TV GALICIA
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/TVGALICIASD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/G36X3gB3/telehit-musica-plus.png" group-title="Izzi Go",Telehit Música Plus
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/TELEHITMUSICAPLUSHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/K8zpfgqD/stingray-music.png" group-title="Izzi Go",Viva México
+https://nog-live1-ott.izzigo.tv/3/out/u/dash/MUSICVIVAMEXICO/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/y8MvD0ZK/n-foro.png" group-title="Izzi Go",🇲🇽 MX 📰 NOTICIAS
+https://nog-live1-ott.izzigo.tv/2/out/u/dash/FOROTVHD/default.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0&Referer=https://www.izzigo.tv/&Origin=https://www.izzigo.tv
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/poster_20250611_205741.jpg" group-title="News",Current Affairs,Politics,Asian" group-title="Desi News" tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/poster_20250611_205741.jpg",News India 24X7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23215/news-marathi-24x7/poster_20250611_210317.jpg" group-title="News",Current Affairs,Politics,Asian" group-title="Desi News" tvg-logo="https://a.jsrdn.com/hls/23215/news-marathi-24x7/poster_20250611_210317.jpg",News Marathi 24X7
@@ -934,39 +1340,747 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1  tvg-logo="https://a.jsrdn.com/hls/23215/news-malayalam-24x7/poster_20250710_180601.png" group-title="News",Current,Current Affairs,Politics,Asian" group-title="New Arrivals" tvg-logo="https://a.jsrdn.com/hls/23215/news-malayalam-24x7/poster_20250710_180601.png",News Malayalam 24x7
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015061/1770822708394234_cricket_24x7_11feb_landscaep_thumb.jpg" group-title="News",ENG | Cricket Blockbusters 24x7
-https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 13; en_GB; CPH2235; Build/TP1A.220905.001)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=75270ca05d6730acc531cace26a5c1ff-1771273800386
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-BOIC/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 15; en_GB; SM-F936N; Build/AP3A.240905.015.A2)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=807232fc43884bd001a82da9da87893d-1771275000374
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/418465816.jpeg" group-title="News",Gurudwara Dasmesh Darbar Canada 24x7 Live
+http://livestream.unlimitedcdn.com/agm-dd/dasmesh-darbar/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/india24x7.png" group-title="News",India 24X7
+https://itassist.one/livetv/india24x7/video.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1   group-title="News",India Daily 24x7
+https://jmp2.uk/stvp-IN4000007M9|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/kabaddi_24x7.png" group-title="News",Kabaddi 24X7
+https://mumt02.tangotv.in/KABADDI24X7/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/channels/9005123451000516.png" group-title="News",Mantavya 24x7 News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/316823152.jpeg" group-title="News",News Ground 24x7
+https://server.thelegitpro.in/newsground//newsground/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/News_Marathi247.png" group-title="News",News Marathi 24X7
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/030061673.jpeg" group-title="News",News Marathi 24x7 News
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://core.freetvindia.com/media/otv_odia.png" group-title="News",OTV Live 24x7
+https://livetv.tarangplus.in/otv-origin/live/otv-origin/live_720p/chunks.m3u8|User-Agent=com.tangotvinmob.app/1.1.2 (Linux;Android 13) AndroidXMedia3/1.4.1
+#EXTINF:-1   group-title="Pirates Tv",24/7 Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",24/7 Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",24/7 Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",4/7 Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",5 NEWS HD
+http://163.61.227.29:8000/play/a03m/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",A SPORTS
+http://163.61.227.29:8000/play/a03t/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png" group-title="Pirates Tv",AAKASH AATH
+https://cdn-4.pishow.tv/live/969/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",AAKASH AATH [Backup]
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",AAN TV [Backup]
+http://163.61.227.29:8000/play/a02c/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",ASTRO SPORTS PLUS
+http://107.175.220.4:11799/go_sportsplus/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",ATN AFG
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg" group-title="Pirates Tv",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Pirates Tv",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Astro SPORTS Primier
+http://107.175.220.4:11799/go_assp1/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg" group-title="Pirates Tv",BBC Cbeebies
+https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="Pirates Tv",BIS HABER
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/4VtHQpf/20240907-023221.png" group-title="Pirates Tv",BONGO DRAMAS
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-dramas|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Pirates Tv",Bengali Beats
+https://tplay.live/originals/bengali-beats/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Bollywood Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Bollywood Movies [Backup]
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",CGTN News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="Pirates Tv",CNA News
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Pirates Tv",Calcutta News [Backup]
+https://akdnetwork.co.in/live/cnnew/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Cartoon Network Hindi
+http://163.61.227.29:8000/play/a064/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Catoons
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo=" " group-title="Pirates Tv",DBC টিভি 🇧🇩
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",DIPPTO
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",DW Naws
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://uplo_logo.png" group-title="Pirates Tv",Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Dorymon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="Pirates Tv",Duck TV
+https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",ENTER10 BANGLA [Backup]
+https://cdn-4.pishow.tv/live/241/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",ESPN 7 [Backup]
+http://201.230.121.186:8000/play/a0dz/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Pirates Tv",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Express HD
+http://163.61.227.29:8000/play/a05i/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png" group-title="Pirates Tv",FalconCast
 https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
-#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png" group-title="Run Tv",NH BollyFlix
+#EXTINF:-1   group-title="Pirates Tv",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Goldmines Movies 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Green Entertainment
+http://163.61.227.29:8000/play/a02v/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Hinde Dabbing Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Hinde Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Hinde Movies 2
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Hum Masala
+http://163.61.227.29:8000/play/a02g/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Jio Chinema
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Pirates Tv",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Kolkata Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",LOTUS MACAU
+http://163.61.227.29:8000/play/a03u/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Lemar AGF
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",MTVsinst Live 🎯 📡
+https://d3ssd0juqbxbw.cloudfront.net/mtvsinstlive/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Makka TV
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/afhANph.jpg" group-title="Pirates Tv",Makka live [Backup]
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png" group-title="Pirates Tv",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",MuxIP-SportsFirst TV🎯
+https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",NK
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/news18-bangla-news.png" group-title="Pirates Tv",News18 Bangla News
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="Pirates Tv",PSN 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="Pirates Tv",PSN 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="Pirates Tv",PSN 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="Pirates Tv",PSN 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Padma Tv
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",R Plus News
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",RT Now
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Real Madrid tv Football
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ruposhi%20Bangla.jpeg" group-title="Pirates Tv",Ruposhi Bangla
+https://cdn-4.pishow.tv/live/1039/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Russia Football 1 HD
+http://cdntv.online/low/9mlxywika2/55.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Russia Football 2 HD
+http://cdntv.online/low/9mlxywika2/56.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Russia Football 3 HD
+http://cdntv.online/low/9mlxywika2/57.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Pirates Tv",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Pirates Tv",Shol Sports
+https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Sky Cricket
+https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Sky Cricket [Backup]
+http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/7343/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ibb.co.com/nPXPTPK" group-title="Pirates Tv",Srk Tv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Star Sport 2 Hindi
+http://tvn2.chowdhury-shaheb.com/starsport2/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",T Sports T20 World Cup
+https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",T Sports T20 World Cup 26 📺
+https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",T20 World Cup 26 WiLLow
+https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports/tracks-v1a1/mono.ts.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",T20 World Cup 26 Willow-Sports-Extra
+https://tigerhub-bd.vercel.app/Sports-zone/Willow-Sports-Extra/tracks-v1a1/mono.ts.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",The Movie Club [Backup]
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",The Q Kahaniyan
+http://163.61.227.29:8000/play/a04v/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",Trave Channel
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Pirates Tv",Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Pirates Tv",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",US-BD Journal 24 TV
+http://208.86.19.13:81/510.stream/index.m3u8?|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",VENUS ENTERTAINMENT
+http://163.61.227.29:8000/play/a02y/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo=" " group-title="Pirates Tv",WAZ TV 🎯 📡
+https://tplay.live/originals/ilm-tv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo=" " group-title="Pirates Tv",WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo=" " group-title="Pirates Tv",pcv
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png" group-title="Pirates Tv",স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+https://stream.spicefmbd.com/stream.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",🚨 ATN AFG 🚨 [Backup]
+http://cors.tundracast.com:2000/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-ariana/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Pirates Tv",🚨Sathiya TV Srilanka 📡📺
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/318296789.jpeg" group-title="Pishow",22 Scope
+https://ott.livelegitpro.in/hls4/22scope/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/088240922.jpeg" group-title="Pishow",24 Hours TV
+https://server.livelegitpro.in/24hourstv/24hourstv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1211.png" group-title="Pishow",99 PERCENT
+https://cdn-1.pishow.tv/live/1211/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10606.jpg" group-title="Pishow",9X JHAKAS
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/922998137.jpeg" group-title="Pishow",A-One Imagine
+http://117.211.8.100:8080/0.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-969.jpg" group-title="Pishow",AKASH BANGLA
+https://cdn-4.pishow.tv/live/969/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-407.png" group-title="Pishow",ANDHRA JYOTI
+https://cdn-1.pishow.tv/live/407/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-961.png" group-title="Pishow",ARADHANA TV
+https://cdn-1.pishow.tv/live/961/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/362747828.jpeg" group-title="Pishow",Aagaaz Times
+https://live1.ottlive.co.in/aagaaztimes/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/560956383.jpeg" group-title="Pishow",Aaj Ki khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/980694110.jpeg" group-title="Pishow",Aatma Tv
+http://aatmatv.agmediachandigarh.com/aatma/0e17eae459d2c90f1a150c818ac3e0f1.sdp/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/560376842.jpeg" group-title="Pishow",Ab Star News
+https://legitpro.co.in/abnews/abnews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/980974889.jpeg" group-title="Pishow",Ajj Di Awaaz Tv
+http://ajjdiawaztv.agmediachandigarh.com/ajjdiawaztv/ffaf00d8bda0333845318b251c437976.sdp/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/630652441.jpeg" group-title="Pishow",Amalner, Maharashtra" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/630652441.jpeg" group-title="Religious & Devotional",Shree Mangal Graha Mandir, Amalner, Maharashtra
+https://cdn.live.shemaroome.com/mangaldev/Stream1/playlist.m3u8?hdnts=st=1758630622~exp=1758641422~acl=*~data=testdata~hmac=7c597e4f3026954e169cb9cb62c1b0821508b97d8223b99ded2e400819dd524c|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/699110417.jpeg" group-title="Pishow",Asianet Me
+http://longstream-06.ajaah.com/PlayBoxTV/AsianetME/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/613732097.jpeg" group-title="Pishow",Ayodhya Ki Ram Leela 2025
+https://shemaroome.shemaroo.com/Ramleelaayodhya2025/Stream1/playlist.m3u8?hdnts=st=1758612612~exp=1758623412~acl=*~data=testdata~hmac=5413bec28702f58d04568728da99432c97d202141397cba0e5f5a7c87d4cde5d|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-397.jpg" group-title="Pishow",BAKTHI TV
+https://cdn-1.pishow.tv/live/397/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-987.png" group-title="Pishow",BALLE BALLE MUSIC
+https://cdn-4.pishow.tv/live/987/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/976549907.jpg" group-title="Pishow",BCN Channel
+http://streamcp.logosys.cloud:1935/bcnchannel/bcnchannel/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/318157667.jpeg" group-title="Pishow",BHI
+https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417850726.jpeg" group-title="Pishow",Baaz TV
+http://livestream.unlimitedcdn.com/hls/362f5e287d.ulive/_c/base/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/698364200.jpeg" group-title="Pishow",Bflixs Movies
+http://longstream-06.ajaah.com/PlayBoxTV/BflixMovies/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/114158523.jpeg" group-title="Pishow",Bhadko
+https://stream.milivetv.in:8080/BHADKO/video.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/021185003.jpeg" group-title="Pishow",Buletin India
+http://103.209.67.18:8080/hls/bindia.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/446346390.png" group-title="Pishow",CN News
+https://legitpro.co.in/cnnnews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-425.png" group-title="Pishow",CVR ENGLISH NEWS
+https://cdn-2.pishow.tv/live/425/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-957.png" group-title="Pishow",CVR SPIRTUAL OM
+https://cdn-1.pishow.tv/live/957/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-237.jpg" group-title="Pishow",Calcutta News
+https://cdn-2.pishow.tv/live/237/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/455270404.jpeg" group-title="Pishow",Chanakya News India
+https://newsliveindia.com/chanakyanewsindiarjhls/chanakyanewsrajsthan.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/700047975.jpeg" group-title="Pishow",Chardikala Time TV
+http://longstream-06.ajaah.com/PlayBoxTV/ChardiklaTimeTV/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10598.jpg" group-title="Pishow",DABANNG
+https://sablive-ddpb.akamaized.net/dabangg/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10571.jpg" group-title="Pishow",DD CHHATISGARH
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/5078083881bc489ea14f4c85e7abe4d6/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-38.jpg" group-title="Pishow",DD GUJARATI
+https://cdn-4.pishow.tv/live/38/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10586.jpg" group-title="Pishow",DD HIMANCHAL
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-25.jpg" group-title="Pishow",DD NORTH EAST
+https://cdn-4.pishow.tv/live/25/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1617.jpg?tag=123" group-title="Pishow",DD RANCHI
+https://cdn-1.pishow.tv/live/1617/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-39.jpg" group-title="Pishow",DD SANSAD TV (RAJYA SABHA)
+https://cdn-2.pishow.tv/live/39/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-40.jpg" group-title="Pishow",DD SANSAD TV HD
+https://cdn-7.pishow.tv/live/40/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10576.jpg" group-title="Pishow",DD SHAYADRI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10587.jpg" group-title="Pishow",DD UP [Backup]
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10581.jpg" group-title="Pishow",DD UTTRAKHAND
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-235.jpg" group-title="Pishow",DHAMAKA MOVIES
+https://cdn-1.pishow.tv/live/235/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1455.jpg" group-title="Pishow",DHARAM SANDESH
+https://cdn-2.pishow.tv/live/1455/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1456.png" group-title="Pishow",DHOOM
+https://cdn-1.pishow.tv/live/1456/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10550.jpg" group-title="Pishow",DIVYA [Backup]
+https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/365532236.jpg" group-title="Pishow",DIVYALOK TV
+http://divyaloktv.livebox.co.in/divyaloktvhls/divyaloktvchannel.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-431.jpg" group-title="Pishow",DW ENGLISH HD
+https://cdn-7.pishow.tv/live/431/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/133344748.jpeg" group-title="Pishow",Desh Punjab Tv
+https://deshpunjab.unlimitedcdn.com/in-desh-punjab/desh-punjab/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/980752311.jpeg" group-title="Pishow",Desi Vaid
+http://desivaid.agmediachandigarh.com/desivaid/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/375180410.jpg" group-title="Pishow",Express News Bharat
+http://103.47.14.9:8080/hls/enbnews.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/701147345.jpg" group-title="Pishow",First India News Rajasthan
+http://longstream-06.ajaah.com/PlayBoxTV/FirstIndiaNews/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1460.jpg" group-title="Pishow",GOLDMINES 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/980283329.jpeg" group-title="Pishow",GURDWARA SANT SAGAR NEWYORK
+https://gurdwarasantsagarny.unlimitedcdn.com/agm-gurdwarasantsagarny/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738780686.jpeg" group-title="Pishow",Global Desi
+https://live.ottlive.co.in/globaldesi/globaldesi/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/209835742.jpeg" group-title="Pishow",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/index.m3u8?hdnts=st=1726209255~exp=1726220055~acl=*~data=testdata~hmac=cc2d18fd115e4185e8cba2c273cd920b5c22a60f7e37b5990cd5ce70ddd9b68d|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417390783.jpeg" group-title="Pishow",Gurkibani
+http://livestream.unlimitedcdn.com/gurkibani/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417608551.jpeg" group-title="Pishow",Gurmat TV
+http://livestream.unlimitedcdn.com/agm/gurmat-tv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/679905278.jpeg" group-title="Pishow",Haryana Buzz
+https://desitashantv.livebox.co.in/haryanabuzzhls/haryanabuzz.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/120674378.jpeg" group-title="Pishow",Hiff Movies
+https://desitashantv.livebox.co.in/hiffmovieshls/hiffmovies.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1465.png" group-title="Pishow",JAI MAHARASTHRA
+https://cdn-3.pishow.tv/live/1465/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-989.jpg" group-title="Pishow",JINVANI
+https://cdn-2.pishow.tv/live/989/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/276585246.jpeg" group-title="Pishow",Jaganath Puri Rath Yatra 2025
+https://shemaroome.shemaroo.com/Rathyatra_2025/Stream1/playlist.m3u8?hdnts=st=1751276309~exp=1751287109~acl=*~data=testdata~hmac=246cc0d9c47cef1cdf218b2bd401c49db9291cde0607ea28da19bda5c35b24e2|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269154597.jpeg" group-title="Pishow",Jaipur - Rajasthan" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269154597.jpeg" group-title="Religious & Devotional",Govind Dev Ji Temple, Jaipur - Rajasthan
+https://cdn.live.shemaroome.com/govinddev/smil:govinddevsel.smil/playlist.m3u8?hdnts=st=1744269108~exp=1744279908~acl=*~data=testdata~hmac=04d4c7ca9b1c7340782a8cf821c6506e7ff95f95d7cb52ad8c8c030e29d5c5ec|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/122612597.jpeg" group-title="Pishow",Janadesh News
+https://5dd3981940faa.streamlock.net/janadesh/janadesh/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/451743007.jpeg" group-title="Pishow",Janataa News
+https://live1.ottlive.co.in/janataanews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/775645524.jpeg" group-title="Pishow",Jansetu News
+https://server.thelegitpro.in/JansetuNews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/923146139.jpg" group-title="Pishow",Jeewan Bhakti
+https://desitashantv.livebox.co.in/jeewanbhaktihls/jeewanbhakti.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/268979273.jpeg" group-title="Pishow",Jejuri" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/268979273.jpeg" group-title="Religious & Devotional",Khandoba Temple, Jejuri
+https://cdn.live.shemaroome.com/khandoba/smil:khandobasel.smil/playlist.m3u8?hdnts=st=1744268926~exp=1744279726~acl=*~data=testdata~hmac=59878f053a64bb7c581029f8466687b3a97920ffd23714a0dd2912008eef0605|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/699867085.jpeg" group-title="Pishow",Jinwani
+http://longstream-06.ajaah.com/PlayBoxTV/Jinwani/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/940150178.png" group-title="Pishow",K News
+https://legitpro.co.in/knews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/457362601.png" group-title="Pishow",KBC NEWS [Backup]
+https://legitpro.co.in/kbcjio/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/349141515.jpeg" group-title="Pishow",KBC News
+https://server.thelegitpro.in/kbcnews/kbcnews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1473.png" group-title="Pishow",KHUSHBOO
+https://cdn-4.pishow.tv/live/1473/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/775574735.jpeg" group-title="Pishow",Kalyan TV
+https://ott.livelegitpro.in/kalyantv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/775324874.jpeg" group-title="Pishow",Kartavya TV
+https://ott.livelegitpro.in/kartavyatv/kartavyatv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/775271733.jpeg" group-title="Pishow",Lakshya TV
+https://ott.livelegitpro.in/lakshayatv/lakshayatv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/630848955.jpeg" group-title="Pishow",Lukshmi Vilas Palace Heritage Garba 2025
+https://shemaroome.shemaroo.com/LKPGARBA_2025/Stream1/chunklist.m3u8?hdnts=st%3D1758630749%7Eexp%3D1758641549%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3D70b301c8738bc8f8af5dcb71edd887ab9d6a2dbdd7eab66673554474e4e3697b|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/826572326.png" group-title="Pishow",MAHOTSAV TV
+http://203.192.243.75:1935/mahotsav/playout/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1129.png" group-title="Pishow",MANORAMA MAZHAVIL HD
+https://cdn-7.pishow.tv/live/1129/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1474.jpg" group-title="Pishow",MANORANJAN PRIME
+https://cdn-4.pishow.tv/live/1474/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10651.jpg" group-title="Pishow",MASTI [Backup]
+https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1476.jpg" group-title="Pishow",MATHIMUGAM THOLAIKATCHI
+https://cdn-3.pishow.tv/live/1476/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/892388087.jpeg" group-title="Pishow",MEDIA9
+http://tv.media9news.com:8080/hls/media9.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1486.png" group-title="Pishow",NANDIGOSHA TV
+https://cdn-4.pishow.tv/live/1486/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10585.jpg" group-title="Pishow",NAVBHARAT
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10009.jpg" group-title="Pishow",ND 24
+https://cdn-6.pishow.tv/live/10009/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10554.jpg" group-title="Pishow",NEWS 24 THINK FIRST [Backup]
+https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/News24liveB/master_1.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1433.png" group-title="Pishow",NEWS TAMIL 24/7
+https://cdn-3.pishow.tv/live/1433/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1494.jpg" group-title="Pishow",NEWS TIME
+https://cdn-2.pishow.tv/live/1494/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10012.jpg" group-title="Pishow",NKTV BANGLA
+https://cdn-6.pishow.tv/live/10012/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10013.jpg" group-title="Pishow",NKTV PLUS
+https://cdn-6.pishow.tv/live/10013/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10014.png" group-title="Pishow",NL TV
+https://cdn-6.pishow.tv/live/10014/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/700271194.jpeg" group-title="Pishow",NTV Bhakthi
+http://longstream-06.ajaah.com/PlayBoxTV/PTCNews/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/560893170.jpeg" group-title="Pishow",Nakshatra Digital
+https://ott.livelegitpro.in/nakshatradigital/nakshatradigital/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738674415.jpeg" group-title="Pishow",Namma Bangalore
+https://live1.ottlive.co.in/nammabangalore/nammabangalore/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/923060617.jpeg" group-title="Pishow",National News
+https://desitashantv.livebox.co.in/nationalnewshls/nationalnews.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/073088224.png" group-title="Pishow",Navsarjan Sanskruti
+http://103.228.144.85:8080/hls/nshindinews.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/701519611.jpeg" group-title="Pishow",Nepal One
+http://longstream-06.ajaah.com/PlayBoxTV/Nepal1TV/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-268.png" group-title="Pishow",News 1st Kannada
+https://cdn-3.pishow.tv/live/268/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/350416727.jpeg" group-title="Pishow",News 21
+https://server.livelegitpro.in/news21/news21/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/105644212.png" group-title="Pishow",News 24 Express
+https://genesys.livebox.co.in/news24expresshls/live.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/273124686.jpeg" group-title="Pishow",News 24 Marathi
+https://amigofx.com:1936/news24marathi/news24marathi/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/067853734.jpg" group-title="Pishow",News Capital Gujrat
+http://43.242.121.91:8080/hls/newscapital.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/643229904.jpeg" group-title="Pishow",News Flash
+https://cdn.ottlive.co.in/newsflashchannel/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/349729053.jpg" group-title="Pishow",News India
+https://live.ottlive.co.in/newsindia/newsindia/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417429835.jpeg" group-title="Pishow",News Only
+http://livestream.unlimitedcdn.com/newsonly/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/737367535.jpeg" group-title="Pishow",News11 Bharat
+https://live1.ottlive.co.in/news11/news11/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/561011873.jpeg" group-title="Pishow",Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/700128091.jpg" group-title="Pishow",Nistha Dhawani
+https://nisthadhawani.in/NisthaDhawaniouthls/NisthaDhawan.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/907041099.jpeg" group-title="Pishow",Nistha Music
+https://nisthadhawani.in/NisthaMusicouthls/out.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/907146977.jpeg" group-title="Pishow",Nistha News
+https://nisthadhawani.in/Nisthanewsouthls/out.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417344236.jpeg" group-title="Pishow",Only Music
+http://livestream.unlimitedcdn.com/onlymusic/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695291646.jpg" group-title="Pishow",Oscar Movies
+http://longstream-06.ajaah.com/PlayBoxTV/OscarMoviesBhojpuri/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/679696166.jpeg" group-title="Pishow",Oye Music
+https://desitashantv.livebox.co.in/oyemusichls/oyemusic.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/114315506.jpeg" group-title="Pishow",P18 News
+https://server.thelegitpro.in/p18news/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10553.jpg" group-title="Pishow",PITAARA MOVIES
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1261.png" group-title="Pishow",PUTHIYA TALAIMURI
+https://cdn-3.pishow.tv/live/1261/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/266781671.jpeg" group-title="Pishow",Pashupatinath Temple - Nepal
+https://cdn.live.shemaroome.com/pashupatinath_nepal/smil:pashupatinath_nepalsel.smil/playlist.m3u8?hdnts=st=1744264569~exp=1744275369~acl=*~data=testdata~hmac=b6044822482622d52b3a054c909e41ac29127cd3fc14e6a2d5ca0dd917dc4382|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/992187986.jpeg" group-title="Pishow",Prime Media Goa
+https://rcdn.rixcast.com/primegoa/primegoa.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/987671201.jpeg" group-title="Pishow",Prudent - Goa News
+https://prudentmcdn.rixcast.com/prudentm.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269553071.jpeg" group-title="Pishow",Pune" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269553071.jpeg" group-title="Religious & Devotional",Morgaon Temple, Pune
+https://cdn.live.shemaroome.com/morgaon/smil:morgaonsel.smil/playlist.m3u8?hdnts=st=1744269372~exp=1744280172~acl=*~data=testdata~hmac=bc4f91099861f71a00eecd20ba31f5e7f0a8e1c7e9232707e5c6128a1fe65f48|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417554543.jpeg" group-title="Pishow",Pure Punjabi TV
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-298.png" group-title="Pishow",R KANNADA
+https://cdn-3.pishow.tv/live/298/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10551.jpg" group-title="Pishow",R Republic
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-270.png" group-title="Pishow",R. Bangla [Backup]
+https://cdn-4.pishow.tv/live/270/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1053.png" group-title="Pishow",REPUBLIC BHARATH
+https://cdn-2.pishow.tv/live/1053/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1039.png" group-title="Pishow",RUPSHI BANGLA
+https://cdn-4.pishow.tv/live/1039/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/391280894.jpeg" group-title="Pishow",Rangmanch
+https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/277723420.jpeg" group-title="Pishow",Ranjangaon" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/277723420.jpeg" group-title="Religious & Devotional",Mahaganpati Ganpati Temple, Ranjangaon
+https://cdn.live.shemaroome.com/rangangoav/smil:rangangoavadp.smil/playlist.m3u8?hdnts=st=1744277689~exp=1744288489~acl=*~data=testdata~hmac=d955eb8e4dc19ca055628a6182981d11ac83b6bdd23e216adab25acf51ef58db|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/980913547.jpeg" group-title="Pishow",Ratwara Sahib
+http://ratwarasahib.agmediachandigarh.com/gurudwarasahib/f08a2f48b696fdfb759e62f7be8a0938.sdp/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1611.png" group-title="Pishow",SAIRAM TV
+https://cdn-3.pishow.tv/live/1611/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1229.png" group-title="Pishow",SANGEET MARATI
+https://cdn-3.pishow.tv/live/1229/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1143.png" group-title="Pishow",SANGEETH BANGLA
+https://cdn-4.pishow.tv/live/1143/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1293.png" group-title="Pishow",SANGEETH BHOJPURI
+https://cdn-4.pishow.tv/live/1293/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-475.png" group-title="Pishow",SANT WANI
+https://cdn-2.pishow.tv/live/475/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-10019.jpg" group-title="Pishow",SPONDON
+https://cdn-7.pishow.tv/live/10019/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-403.jpg" group-title="Pishow",STUDIO N NEWS
+https://cdn-1.pishow.tv/live/403/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-276.jpg" group-title="Pishow",STUDIO ONE PLUS
+https://cdn-1.pishow.tv/live/276/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-278.jpg" group-title="Pishow",SUBHAVARTHA TV
+https://cdn-1.pishow.tv/live/278/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1516.png" group-title="Pishow",SUDARSHAN
+https://cdn-2.pishow.tv/live/1516/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1607.jpg" group-title="Pishow",SVBC 4 HINDI
+https://cdn-2.pishow.tv/live/1607/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-477.png" group-title="Pishow",SWARAJ EXPRESS
+https://cdn-2.pishow.tv/live/477/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/163662295.jpg" group-title="Pishow",Sacchi Report
+http://38.242.242.5:8080/hls/sachhireport/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417758391.jpeg" group-title="Pishow",Sada TV USA
+http://livestream.unlimitedcdn.com/agm/sada-TV/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/417243291.jpeg" group-title="Pishow",Sanjha TV
+http://livestream.unlimitedcdn.com/sanjhatv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/318718649.jpg" group-title="Pishow",Santvani TV
+https://server.thelegitpro.in/santvanitv/santvanitv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/735758548.jpeg" group-title="Pishow",Shine Kannada
+https://cloud.dndcommunication.in/shinekannada/shinekannada/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269834527.jpeg" group-title="Pishow",Siddhtek" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269834527.jpeg" group-title="Religious & Devotional",Siddhivinayak Temple, Siddhtek
+https://cdn.live.shemaroome.com/siddhtek/smil:siddhteksel.smil/playlist.m3u8?hdnts=st=1744269623~exp=1744280423~acl=*~data=testdata~hmac=5686ddd3bf1f8a1f04a6d1e112db7e1ae4872e5386b10d1fd42dcf42cfdc7aea|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/621146662.png" group-title="Pishow",Soochna India
+https://live1.ottlive.co.in/soochnaindia/soochnaindia/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/643915176.jpeg" group-title="Pishow",Spokesman
+https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/349286143.jpg" group-title="Pishow",TNP News [Backup]
+https://server.thelegitpro.in/tnpnews/tnpnews/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1522.png" group-title="Pishow",TOTAL TV
+https://cdn-2.pishow.tv/live/1522/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/905407473.jpg" group-title="Pishow",TTN 24
+https://m7.media9news.com/media9/hls/ttn24.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695286272.jpg" group-title="Pishow",TV45
+https://server.livelegitpro.in/bnews24/bnews24/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/830835320.png" group-title="Pishow",TVE SPORTS
+http://203.192.243.75:1935/trinityvision/tvesports/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738238597.jpeg" group-title="Pishow",Tara TV
+https://legitpro.co.in:9898/taratv/taratv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/056278478.jpeg" group-title="Pishow",Tehelka Digital News
+https://stream-hls.castr.net/68b419fd7f1f346181dba5b7/live_8c6a4b00864f11f0b5113f731ad05aa1/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738534981.jpeg" group-title="Pishow",The Unmute
+https://legitpro.co.in/theunmute/theunmute/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269329425.jpeg" group-title="Pishow",Theur" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/269329425.jpeg" group-title="Religious & Devotional",Chintamani Temple, Theur
+https://cdn.live.shemaroome.com/theur/smil:theursel.smil/playlist.m3u8?hdnts=st=1744269238~exp=1744280038~acl=*~data=testdata~hmac=13910eed57b7e74fe8659a26d4392f18830bb81b979e7a102e4e235bf17d5326|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/737149399.jpeg" group-title="Pishow",Top Marathi News
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-461.jpg" group-title="Pishow",VALICHAM PLUS
+https://cdn-3.pishow.tv/live/461/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1271.png" group-title="Pishow",VENDAR TV
+https://cdn-3.pishow.tv/live/1271/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/254483516.jpeg" group-title="Pishow",Valam TV
+http://103.250.149.130/hls/stream0.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/088285778.jpeg" group-title="Pishow",Vedant Ras
+https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738987466.jpeg" group-title="Pishow",Voice TV Urdu
+https://live1.ottlive.co.in/voiceurdutv/voiceurdutv/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/100.png" group-title="Roar Zone",And Pictures [Backup]
+https://edge2.roarzone.info:444/roarzone/edge3/pictures-hd/index.m3u8?token=8f93a31fefacc40387a168947d4b19f455b93f2b-7104717baf1ea44904ec3beae551131a-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/74.png" group-title="Roar Zone",And TV HD
+https://edge2.roarzone.info:444/roarzone/edge3/tv-hd/index.m3u8?token=9751e86cce951dba7b4b18132d4b8f914217240b-ea452848329b8bc84ee259c02bd55f7b-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/85.png" group-title="Roar Zone",DW NEWS
+https://edge2.roarzone.info:444/roarzone/bk/85/index.m3u8?token=118e21a531903410a673dcee3dcd31d5c54dc203-f2cef486b9d37369fbe5ec5da789ce06-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png" group-title="Roar Zone",Discovery HD Investigation
+https://edge2.roarzone.info:444/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=47d5b611fa788d9648e4be292d38360ea4e3de21-e0855ce59f5932e3f576263c029d003e-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/dubai-sports.png" group-title="Roar Zone",Dubai Sports
+https://edge2.roarzone.info:444/roarzone/bk/dubai-sports/index.m3u8?token=4b1b6bb1bfcbd377d42eca5a0cad071bfa5b84d7-50f3a8688c05013041c1186f81361366-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/65.png" group-title="Roar Zone",Ekushy TV
+https://edge2.roarzone.info:444/roarzone/bk/65/index.m3u8?token=c99afa3cac678c5ff421240b695b420b0bfb70c1-0e0694dcfcc12094bd364d30416abd7a-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="Roar Zone",Euro Sports
+https://edge2.roarzone.info:444/roarzone/edge3/euro-sport-hd/index.m3u8?token=bfaa1e3c0b12c13697ab7806df19614f246f7619-9f653ae926bc858cb6d60bd8bb503acc-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/hummasala.png" group-title="Roar Zone",Hum Masala [Backup]
+https://edge2.roarzone.info:444/roarzone/edge3/hum-masala/index.m3u8?token=4267e17ed8bf23c2cd8dcc5cb86985d7d8557944-cc63c233cb4551bd449f7a2412f7529c-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/humsitarey.png" group-title="Roar Zone",Hum Sitarey
+https://edge2.roarzone.info:444/roarzone/edge3/hum-sitaray/index.m3u8?token=d1cb0b2cc19474fc9435dc5e32fe0b30cec4be42-7c50c9d6952f4a27fd7601bbd30c62aa-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://tvassets.roarzone.info/images/17.png" group-title="Roar Zone",Somoy TV [Backup]
+https://edge2.roarzone.info:444/roarzone/edge3/somoy-tv/index.m3u8?token=5731052d9619f7f5d6b5aa31a45c181b1ffb2c97-77a04cad7c2b495f9d7f9bfbb97aa633-1771284311-1771273511|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36&Referer=https://tv.roarzone.info/&Origin=https://tv.roarzone.info
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/APKADT/TV/thumbnail/6dec2b8c-6a73-4e91-9e0c-f0840a9c02a6.png" group-title="Run Tv",Aap ki Adalat
+https://indiatv.cdn.runn.tv/ptnr-RunnTV/title-IndiaTV_AKA_NonSSAI/v1/vglive-sk-912213/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_CINSHF/TV/thumbnail/logo_tv.png" group-title="Run Tv",Cineshorts Premiere
+https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/INDTVY/TV/thumbnail/44caa8ef-c0d0-4b00-ba10-75a4452e9d09.png" group-title="Run Tv",India TV Yoga [Backup]
+https://indiatv.cdn.runn.tv/ptnr-RunnTV/title-IndiaTV_Yoga_Non_SSAI/v1/vglive-sk-385006/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png" group-title="Run Tv",NH BollyFlix [Backup]
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
-#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Run Tv",NH BollyRaga
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYGLD/TV/thumbnail/eaf5477a-82cb-45f8-a200-2c8c136e57b7.png" group-title="Run Tv",NH BollyGold
+https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png" group-title="Run Tv",NH BollyRaga [Backup]
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NAVBHT/TV/thumbnail/logo_web.png" group-title="Run Tv",Navbharat [Backup]
+https://a66fd974d289494994f6cf39649c806d.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/navbharat/master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_NUNUTV/TV/thumbnail/logo_mobile.png" group-title="Run Tv",NuNu TV
 https://playout.runn.tv/playout/v1/stream/p_nunutv/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/JAGRAN/TV/thumbnail/229f7867-3ff3-49e1-b87b-b56ede9337c9.png" group-title="Run Tv",OnlyMyHealth
+https://playout.runn.tv/playout/v1/stream/jagran/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PITCOM/TV/thumbnail/ef6777fd-5ad9-40d1-9aae-d28c5ca8881b.png" group-title="Run Tv",Pitaara Comedy [Backup]
+https://pitaaratv.cdn.runn.tv/ptnr-RunnTV/title-Pitaara_Comedy/v1/vglive-sk-217489/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_PKTFLM/TV/thumbnail/logo_web.png" group-title="Run Tv",Pocket Films
+https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/PWRKDJB/TV/thumbnail/a346c480-2d94-49e0-b662-766a38caefa1.png" group-title="Run Tv",Powerkids Jungle Book
 https://powerkids.cdn.runn.tv/junglebook.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/POWKAR/TV/thumbnail/63ffb41c-8bfe-496e-9ebe-ee0073487389.png" group-title="Run Tv",Powerkids Kartoon
 https://powerkids.cdn.runn.tv/powerkids.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/QTOONZ/TV/thumbnail/QTOONZ_FinalLOGO.png" group-title="Run Tv",Q Toonz
 https://runn-qtoonz.cdn.runn.tv/title-Q_Toonz_New/v1/vglive-sk-137354/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RDCMOV/TV/thumbnail/RDCLOGO_Final_LOGO.png" group-title="Run Tv",RDC Movies
+https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNACT/TV/thumbnail/322dac70-d5c6-42fe-95fd-94e93cc5a8f6.png" group-title="Run Tv",Runn Action
+https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/TV/thumbnail/logo_web.png" group-title="Run Tv",Runn Short Films
 https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
-#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/QKHNYN/TV/thumbnail/QK_2000x2000.png" group-title="Run Tv",The Q Kahaniyan
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNTHR/TV/thumbnail/logo_web.png" group-title="Run Tv",Runn Thrillers
+https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SRGBHJ/TV/thumbnail/logo_tv.png" group-title="Run Tv",Saregama Bhojpuri
+https://saregama.cdn.runn.tv/saregamabhojpuri/saregamabhojpuri_master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SRGMUS/TV/thumbnail/logo_tv.png" group-title="Run Tv",Saregama Music
+https://saregama.cdn.runn.tv/saregama/saregama_master.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/SPDNWS/TV/thumbnail/3c68d9a8-d21e-40a4-a2a7-e874f78c25df.png" group-title="Run Tv",Speed News
+https://indiatv.cdn.runn.tv/ptnr-RunnTV/title-IndiaTV_Speed_News_NonSSAI/v1/vglive-sk-479089/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SUPFLM/TV/thumbnail/logo_web.png" group-title="Run Tv",Superfine Films
+https://e36288c993cbea78ea3a82b10d004ea7.u25fk1.channel-assembly.mediatailor.ap-south-1.amazonaws.com/v1/channel/PRD_SUPFLM/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_TTTFLM/TV/thumbnail/logo_tv.png" group-title="Run Tv",Terribly Tiny Tales
+https://playout.runn.tv/playout/v1/stream/p_tttflm/playlist.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/QKHNYN/TV/thumbnail/QK_2000x2000.png" group-title="Run Tv",The Q Kahaniyan [Backup]
 https://qyou-runn.cdn.runn.tv/title-Kahaniyan_Non_SSAI/v1/vglive-sk-466626/0188093ecb6509831f170280d807/01880944196c09831f170280d80a/main.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",@K-MUSIC
+https://jmp2.uk/stvp-IN4900011OU|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Astro Tak
+https://jmp2.uk/stvp-IN26000170D|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Auto Live
+https://jmp2.uk/stvp-IN3600007DC|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Bhakti Play
+https://jmp2.uk/stvp-IN4600011RZ|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Bon Voyage
+https://jmp2.uk/stvp-IN2400004WL|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Brave Wilderness
+https://jmp2.uk/stvp-IN3600008TY|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Challenge Accepted
+https://jmp2.uk/stvp-IN3600009O8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Cine Jomjomat
+https://jmp2.uk/stvp-IN2100007QM|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",Comedy King
 https://jmp2.uk/stvp-IN3600006RT|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Concerto
+https://jmp2.uk/stvp-IN800005S8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Cook & Bake
+https://jmp2.uk/stvp-IN46000105Q|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Crime Scene TV
+https://jmp2.uk/stvp-IN24000030L|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Crime Tak
+https://jmp2.uk/stvp-IN2600015OO|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Divya
+https://jmp2.uk/stvp-INBD13000053R|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Divya Bhajan
+https://jmp2.uk/stvp-IN1600002IQ|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",ENT Live
+https://jmp2.uk/stvp-IN400000830|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Epic Gardening TV
+https://jmp2.uk/stvp-IN39000216A|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Foodie Hub
+https://jmp2.uk/stvp-IN460000313|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",HISTORY TV18 - Hindi
+https://jmp2.uk/stvp-IN1600009NL|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",Hollywood Desi
 https://jmp2.uk/stvp-IN3800010SH|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Hooray Kids
+https://jmp2.uk/stvp-IN4600009F9|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Hooray Rhymes
+https://jmp2.uk/stvp-IN4600007TC|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",House of Crime
+https://jmp2.uk/stvp-IN4600004HW|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",India TV Yoga
+https://jmp2.uk/stvp-IN2600021ED|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Jack Hanna
+https://jmp2.uk/stvp-INBA4900024R1|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",K-Food by CJ ENM
+https://jmp2.uk/stvp-IN490000951|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",K-POP by CJ ENM
+https://jmp2.uk/stvp-IN3800006RD|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",KidDo MATIX
+https://jmp2.uk/stvp-IN4600008T4|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",Kings Of Comedy
 https://jmp2.uk/stvp-IN46000184H|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",Korean TV
 https://jmp2.uk/stvp-IN3600005NF|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",MAVTV Motorsports
+https://jmp2.uk/stvp-INBD4700014DU|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Malai Murasu Seithikal
+https://jmp2.uk/stvp-IN3900003LA|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Mark Rober TV
+https://jmp2.uk/stvp-IN3900022KR|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",NH BollyFlix
+https://jmp2.uk/stvp-IN46000140Q|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",NH BollyRaga
+https://jmp2.uk/stvp-IN460001373|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",News State BR JH
+https://jmp2.uk/stvp-IN3900007Y7|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",News State MP CG
+https://jmp2.uk/stvp-IN3900006S6|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",News State PUN HAR HIM
+https://jmp2.uk/stvp-IN3900008R9|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",News18 Jammu Kashmir
+https://jmp2.uk/stvp-IN1600007AU|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",News24 MP CG
+https://jmp2.uk/stvp-IN2100008VF|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Pitaara Comedy
+https://jmp2.uk/stvp-IN1600001OG|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Powerkids Kartoon Channel
+https://jmp2.uk/stvp-IN2500003JW|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",R Bangla
+https://jmp2.uk/stvp-INBD2500016OR|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Series K BY MBC
+https://jmp2.uk/stvp-IN4600019L1|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",South Station
 https://jmp2.uk/stvp-IN3800008CX|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Star Central
+https://jmp2.uk/stvp-IN24000052F|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",The Jungle Book
+https://jmp2.uk/stvp-IN25000020M|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",The Lallantop
+https://jmp2.uk/stvp-IN3800002VK|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1   group-title="Samsung Tv",The Movie Club
 https://jmp2.uk/stvp-IN38000072R|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",The Movie Club+2
+https://jmp2.uk/stvp-IN40000100Y|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",The Try Guys
+https://jmp2.uk/stvp-IN390002534|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",TheSorryGirls TV
+https://jmp2.uk/stvp-IN39000260R|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Wheel World
+https://jmp2.uk/stvp-IN460000250|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Wild Flix
+https://jmp2.uk/stvp-IN460000585|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",Wild Stuff
+https://jmp2.uk/stvp-IN800006BS|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Samsung Tv",XXTreme Jobs
+https://jmp2.uk/stvp-IN46000011Q|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Aan-TV.png" group-title="Shooq Pk",Aan TV
+https://live2.shoq.com.pk/live/eds/AAN_TV/DASH/AAN_TV.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/abb-tak.png" group-title="Shooq Pk",Abb Takk News
+https://live2.shoq.com.pk/live/eds/Abb_Takk_News/DASH/Abb_Takk_News.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/City-21.png" group-title="Shooq Pk",City 21
+https://live2.shoq.com.pk/live/eds/City_21/DASH/City_21.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/criclife2.png" group-title="Shooq Pk",Criclife 2
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/geo.png" group-title="Shooq Pk",Geo Entertainment
+https://live2.shoq.com.pk/live/eds/Geo_Entertainment/DASH/Geo_Entertainment.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Geo-taiz.png" group-title="Shooq Pk",Geo Taiz
+https://live2.shoq.com.pk/live/eds/Geo_Taiz/DASH/Geo_Taiz.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/kids-Zone.png" group-title="Shooq Pk",Kids Zone Plus
+https://live2.shoq.com.pk/live/eds/Kids_Zone_Plus/DASH/Kids_Zone_Plus.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/paigham-tv.png" group-title="Shooq Pk",Paigham TV
+https://live2.shoq.com.pk/live/eds/Paigham_TV/DASH/Paigham_TV.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/urdu-1.png" group-title="Shooq Pk",Urdu 1
+https://live2.shoq.com.pk/live/eds/Urdu_1/DASH/Urdu_1.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014867/1770194297645737_FA_26_RD4_Macclesfield-vs-Brentford_Landscape_thumb.jpg" group-title="Sonyliv",ENG | Macclesfield vs Brentford - Round 4 - 17 Feb 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 9; en_GB; Hi3798MV200; Build/PPR1.180610.011)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=75270ca05d6730acc531cace26a5c1ff-1771273800386
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master.m3u8?hdnea=exp=1771309802~acl=/*~id=56615395249860281457435207610617~hmac=a114768a7a72d3216b33cf5e6e3ad33f2d5346bd79b0435ea36d7397ce7e962a|User-Agent=com.sonyliv/6.22.4 (Android 14; en_GB; 2312DRA50I; Build/UKQ1.231003.002)&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=807232fc43884bd001a82da9da87893d-1771275000374
 #EXTINF:-1  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131062_5427_GIR_BAR_FC-Web.png" group-title="Sports",BEN | Girona Fc Vs Fc Barcelona
 https://in-mc-flive.fancode.com/mumbai/131062_bengali_hls_7886e8e79198297_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/22_Al-Hilal-vs-Al-Wahda_1770636292603.png" group-title="Sports",ENG | Al Hilal Sfc Vs Al Wahda
@@ -989,6 +2103,134 @@ https://in-mc-flive.fancode.com/mumbai/140423_english_hls_a34bb1be5838932_1ta-di
 https://in-mc-flive.fancode.com/mumbai/140285_english_hls_549feed20283193_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
 #EXTINF:-1  tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131062_5427_GIR_BAR_FC-Web.png" group-title="Sports",HIN | Girona Fc Vs Fc Barcelona
 https://in-mc-flive.fancode.com/mumbai/131062_hindi_hls_c1dd53337835733_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.3.0 (Linux;Android 13) AndroidXMedia3/1.6.1&referer=https://fancode.com/
+#EXTINF:-1   group-title="Sun Direct",AASTHA GUJRATI
+http://103.78.149.54:8000/play/a03b/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",ACTION CINEMA
+http://103.78.149.54:8000/play/a005/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",ARGUS
+http://103.78.149.54:8000/play/a03y/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",BHARAT 24 VISION OF NEW INDIA
+http://103.78.149.54:8000/play/a03l/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",COLORS RISHTEY
+http://103.78.149.54:8000/play/a01g/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",Cineplex Bollywood
+http://103.78.149.54:8000/play/a011/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",DD MP
+http://103.78.149.54:8000/play/a02u/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",DD Oriya
+http://103.78.149.54:8000/play/a033/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",DD UP
+http://103.78.149.54:8000/play/a02o/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",Goldmines Bollywood
+http://103.78.149.54:8000/play/a012/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",MH ONE
+http://103.78.149.54:8000/play/a03g/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",MH ONE NEWS
+http://103.78.149.54:8000/play/a03f/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",Masti
+http://103.78.149.54:8000/play/a01t/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",News 24 Think First
+http://103.78.149.54:8000/play/a00f/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",SADHNA GOLD
+http://103.78.149.54:8000/play/a01u/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",SANSAD  TV (RAJYA SABHA)
+http://103.78.149.54:8000/play/a00t/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",SANSAD TV [Backup]
+http://103.78.149.54:8000/play/a00s/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",THE Q
+http://103.78.149.54:8000/play/a010/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",TNP News
+http://103.78.149.54:8000/play/a03a/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1   group-title="Sun Direct",TV9 GUJURATI
+http://103.78.149.54:8000/play/a03j/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ivdstd.png" group-title="Watcho",24 GHANTA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/24ghanta2/default/manifest.mpd|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp" group-title="Waves Ott",DD YADGIRI
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/f61ea6704a2d4040a2d8eb5c8855ebeb/index.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Azteca Deportes MX
+https://tv.noobon.top/zapx/watch.php?id=VVYxNh1_Thg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",CBS Sports Golazo!
+https://tv.noobon.top/zapx/watch.php?id=BlVuN0lzGxw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Caliente TV
+https://tv.noobon.top/zapx/watch.php?id=UFJkNE9zGR8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Canal 11 PT
+https://tv.noobon.top/zapx/watch.php?id=V1NhMR0sQ0w&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Canal 5 MX
+https://tv.noobon.top/zapx/watch.php?id=VQBnMEgrSEM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",DAZN 1 ES
+https://tv.noobon.top/zapx/watch.php?id=BwExMR16Gxs&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",DAZN 2 ES
+https://tv.noobon.top/zapx/watch.php?id=ClIzbRkoT0o&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Dsports
+https://tv.noobon.top/zapx/watch.php?id=CgNiM0suTEg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Dsports + [Backup]
+https://tv.noobon.top/zapx/watch.php?id=CwRlNxosHhs&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Dsports 2
+https://tv.noobon.top/zapx/watch.php?id=BwE1NE19Thg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 1 BR
+https://tv.noobon.top/zapx/watch.php?id=AFRkM0p_TUM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 1 NL
+https://tv.noobon.top/zapx/watch.php?id=AAZgYRp9HE0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 2 BR
+https://tv.noobon.top/zapx/watch.php?id=BFNmZkF9Th8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 2 MX
+https://tv.noobon.top/zapx/watch.php?id=BVxuYR57Shw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 2 NL
+https://tv.noobon.top/zapx/watch.php?id=B10zZBx7Hk4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 3 BR
+https://tv.noobon.top/zapx/watch.php?id=AwcybUorQ0M&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 3 MX
+https://tv.noobon.top/zapx/watch.php?id=AVM2Mxp5Tkw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 3 NL
+https://tv.noobon.top/zapx/watch.php?id=BVRjYUF6SE4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 4 BR
+https://tv.noobon.top/zapx/watch.php?id=UVFmNB0oTx8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 5
+https://tv.noobon.top/zapx/watch.php?id=BgY1NxlyGBk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 6
+https://tv.noobon.top/zapx/watch.php?id=BlxvbUh6SE8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN 7
+https://tv.noobon.top/zapx/watch.php?id=UANhZksrHk0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN Deportes USA
+https://tv.noobon.top/zapx/watch.php?id=BwRmMRp4HEw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN MX
+https://tv.noobon.top/zapx/watch.php?id=AlBuZEx5Sh4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",ESPN Premium Argentina
+https://tv.noobon.top/zapx/watch.php?id=UQc0YEB4SRg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Eleven Sports 1 PT
+https://tv.noobon.top/zapx/watch.php?id=VVRmYBovQhk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Eleven Sports 2 PT
+https://tv.noobon.top/zapx/watch.php?id=B1NiYkkrSk8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Eleven Sports 3 PT
+https://tv.noobon.top/zapx/watch.php?id=BAdkbR19HEo&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Eleven Sports 4 PT
+https://tv.noobon.top/zapx/watch.php?id=BlU2Nkl4SU4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Eleven Sports 5 PT
+https://tv.noobon.top/zapx/watch.php?id=ClIyYB0pTx4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",FUTV (EV)
+https://tv.noobon.top/zapx/watch.php?id=ClFlZk54Hxw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Deportes TUBI
+https://tv.noobon.top/zapx/watch.php?id=VgQyMUAvGBk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Deportes USA
+https://tv.noobon.top/zapx/watch.php?id=AARiNEx9H0o&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 1 (Argentina)
+https://tv.noobon.top/zapx/watch.php?id=UgAxbRxzHkI&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 1 MX
+https://tv.noobon.top/zapx/watch.php?id=BwNnYEF4SUw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 1 USA
+https://tv.noobon.top/zapx/watch.php?id=CwdgbBkvTU8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 2 (Argentina)
+https://tv.noobon.top/zapx/watch.php?id=VlA1bE14Qk0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 2 MX
+https://tv.noobon.top/zapx/watch.php?id=UVQyYRsoHkw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 2 USA
+https://tv.noobon.top/zapx/watch.php?id=C1JgZBx5SUI&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 3 (Argentina)
+https://tv.noobon.top/zapx/watch.php?id=AwQzYxwvSEo&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Fox Sports 3 MX
+https://tv.noobon.top/zapx/watch.php?id=UQdjNkAoTkM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",GolTV
+https://tv.noobon.top/zapx/watch.php?id=UFVgME9yG0g&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Gran Hermano CAM 2
 https://tv.noobon.top/zapx/watch.php?id=UVFiMEwvQ0M&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Gran Hermano CAM 24H
@@ -997,3 +2239,81 @@ https://tv.noobon.top/zapx/watch.php?id=UABkZUp_S0s&format=.m3u8|User-Agent=Dalv
 https://tv.noobon.top/zapx/watch.php?id=BQc1M0gpGEM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Gran Hermano MultiCAM
 https://tv.noobon.top/zapx/watch.php?id=UQRiMRt7Tx4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",HI! Sports MX
+https://tv.noobon.top/zapx/watch.php?id=BVAyZk16Tks&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Liga 1 MAX
+https://tv.noobon.top/zapx/watch.php?id=VlxlMEh8GB8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Premier Sports 1 Irlanda
+https://tv.noobon.top/zapx/watch.php?id=BwdmY0h5Qx8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Premier Sports 2 Irlanda
+https://tv.noobon.top/zapx/watch.php?id=ClVkYkh7T00&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Premiere 1 BR
+https://tv.noobon.top/zapx/watch.php?id=AgBnNBl5TUg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Premiere 2 BR
+https://tv.noobon.top/zapx/watch.php?id=Ul1lMU5_G04&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Premiere 3 BR
+https://tv.noobon.top/zapx/watch.php?id=B1ExMxt-HE0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",SN360
+https://tv.noobon.top/zapx/watch.php?id=AgMxbRooHx8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sky Sports Bundesliga 1
+https://tv.noobon.top/zapx/watch.php?id=V1xnMR4rHxg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sky Sports Bundesliga 2
+https://tv.noobon.top/zapx/watch.php?id=UQQ0ZUhzHx8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sky Sports Bundesliga 3
+https://tv.noobon.top/zapx/watch.php?id=AABjMR0vHks&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sky Sports Bundesliga 4
+https://tv.noobon.top/zapx/watch.php?id=UVJnMEhzTkk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sky Sports Bundesliga 5
+https://tv.noobon.top/zapx/watch.php?id=BVE0ME1-Hk8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",SporstNet EAST
+https://tv.noobon.top/zapx/watch.php?id=BFIzYEF8Qh8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 1 BR
+https://tv.noobon.top/zapx/watch.php?id=BFBhZEAvH0g&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 1 PT
+https://tv.noobon.top/zapx/watch.php?id=AQNkbB4oSB4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 2 BR
+https://tv.noobon.top/zapx/watch.php?id=AQY2YUB8Qhg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 2 PT
+https://tv.noobon.top/zapx/watch.php?id=BVNlbEsvT08&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 3 BR
+https://tv.noobon.top/zapx/watch.php?id=CwdmZ059G0o&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 3 PT
+https://tv.noobon.top/zapx/watch.php?id=BF1hZRx-Qk0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 4 PT
+https://tv.noobon.top/zapx/watch.php?id=VlVuYkspSUs&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 5 PT
+https://tv.noobon.top/zapx/watch.php?id=CwBlZ0osHhk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Sport TV 6 PT
+https://tv.noobon.top/zapx/watch.php?id=AABnYEp9T0M&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT 1 GB
+https://tv.noobon.top/zapx/watch.php?id=AVRjM0p7GRk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT 2 GB
+https://tv.noobon.top/zapx/watch.php?id=AlFjMRp6Q0M&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT 3 GB
+https://tv.noobon.top/zapx/watch.php?id=AQZiN0ArQx8&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT 4 GB
+https://tv.noobon.top/zapx/watch.php?id=AF1gNxx6HEM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT Sports Argentina
+https://tv.noobon.top/zapx/watch.php?id=VVxnY0F7GEI&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TNT Sports Chile
+https://tv.noobon.top/zapx/watch.php?id=VwMxMUp7Skk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TUDN MX
+https://tv.noobon.top/zapx/watch.php?id=BFEyYhp7Hxg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TUDN USA
+https://tv.noobon.top/zapx/watch.php?id=UlQ2N0p_TU0&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TVC Deportes MX
+https://tv.noobon.top/zapx/watch.php?id=BVBmZEwuSkk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",TyC Sports Internacional
+https://tv.noobon.top/zapx/watch.php?id=C1I2YB56TEM&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Universo USA
+https://tv.noobon.top/zapx/watch.php?id=C10zMRx7SUg&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Universo USA [Backup]
+https://tv.noobon.top/zapx/watch.php?id=BVE2ZxwoSUw&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Univisíon USA
+https://tv.noobon.top/zapx/watch.php?id=B1RgN0l6TUI&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Vamos ES
+https://tv.noobon.top/zapx/watch.php?id=BAE1Nh55HEk&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Win Play +
+https://tv.noobon.top/zapx/watch.php?id=ClJlbUAvGEI&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
+#EXTINF:-1  tvg-logo="https://i.ibb.co/dJfysm3V/zap-Sports.png" group-title="Zap Sports",Win Sports + (Op2)
+https://tv.noobon.top/zapx/watch.php?id=UFBgZUt-Sh4&format=.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android)
